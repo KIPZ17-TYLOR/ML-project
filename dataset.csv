@@ -1,0 +1,1001 @@
+Gender,Math_Grade,English_Grade,Kiswahili_Grade,Subject_4,Subject_5,Subject_6,Subject_7,Grade_4,Grade_5,Grade_6,Grade_7,Took_All_Sciences,Average_Performance,Career_Path
+Male,A,B,B,Chemistry,Agriculture,History,Geography,A,A,A,C,False,3.43,Business Administration
+Female,B,C,B,Religion,Agriculture,Chemistry,Computer Science,B,E,C,C,False,2.21,Telecommunications
+Male,C,D,B,Chemistry,Business,Geography,History,F,B,F,D,False,1.43,Education
+Male,A,B,C,History,Business,Chemistry,Agriculture,D,C,D,B,False,2.29,Music
+Male,A,C,D,Chemistry,Geography,Agriculture,Business,C,A,A,B,False,2.86,Cybersecurity
+Male,C,C,B,Chemistry,Geography,History,Business,A,A,C,C,False,2.71,Education
+Female,B,B,B,History,Computer Science,Physics,Biology,A,B,B,A,False,3.29,Telecommunications
+Male,D,B,D,Computer Science,Religion,Physics,Chemistry,A,C,B,B,False,2.43,Fine Arts
+Female,C,B,C,Agriculture,Physics,Chemistry,Geography,C,B,D,A,False,2.43,Fine Arts
+Female,B,A,C,Chemistry,Business,Agriculture,Computer Science,D,C,B,C,False,2.43,Economics
+Female,B,B,B,Business,Agriculture,Computer Science,History,E,A,D,C,False,2.36,Business Administration
+Female,B,A,A,Agriculture,Biology,Physics,Chemistry,C,D,C,D,True,2.43,Music
+Male,B,B,D,Computer Science,Chemistry,Geography,Physics,C,D,C,B,False,2.14,Education
+Female,B,A,B,Business,Geography,Physics,Religion,C,B,C,B,False,2.86,Journalism
+Female,B,A,A,Computer Science,Chemistry,Business,Biology,B,A,C,A,False,3.43,Finance
+Male,B,C,C,History,Physics,Biology,Business,A,B,D,C,False,2.43,Telecommunications
+Female,B,B,C,Business,Biology,Geography,Computer Science,B,B,F,B,False,2.43,Telecommunications
+Female,C,B,E,Agriculture,Physics,Business,Biology,B,D,B,E,False,1.86,Education
+Male,B,C,A,Computer Science,History,Physics,Agriculture,C,C,D,D,False,2.14,Education
+Female,C,B,C,Computer Science,History,Religion,Agriculture,A,B,B,C,False,2.71,Fine Arts
+Female,B,B,B,Agriculture,Religion,History,Business,E,D,B,D,False,2.07,Telecommunications
+Female,A,B,C,Business,Computer Science,Physics,Religion,E,C,C,C,False,2.21,Finance
+Male,F,C,D,Chemistry,Biology,Agriculture,Computer Science,B,D,C,A,False,1.86,Business Administration
+Female,A,C,D,Agriculture,Geography,Computer Science,Business,D,B,D,B,False,2.14,Telecommunications
+Female,D,F,D,Agriculture,Biology,History,Religion,D,B,A,C,False,1.71,Education
+Female,C,C,C,History,Biology,Chemistry,Geography,F,A,B,E,False,1.93,Agriculture
+Male,B,B,B,Religion,Physics,Biology,History,C,C,A,D,False,2.57,Graphic Design
+Male,C,C,C,Agriculture,Biology,Geography,History,C,B,B,A,False,2.57,Food Science
+Male,B,B,D,Physics,Chemistry,Religion,Business,B,B,B,A,False,2.86,Tourism
+Female,D,C,B,Physics,Geography,Business,History,A,B,C,D,False,2.29,Telecommunications
+Male,B,D,C,Agriculture,Business,Biology,Physics,A,A,B,C,False,2.71,Food Science
+Male,D,C,B,Biology,Religion,History,Physics,D,A,D,C,False,2.0,Education
+Female,C,D,C,Religion,Chemistry,Biology,Physics,C,B,C,B,True,2.14,Telecommunications
+Female,B,E,A,History,Computer Science,Chemistry,Agriculture,B,E,C,A,False,2.43,Education
+Female,C,B,D,Agriculture,Physics,Business,Chemistry,B,E,A,A,False,2.5,Environmental Science
+Male,D,C,B,Chemistry,Biology,Agriculture,Geography,B,C,B,A,False,2.57,Forestry
+Male,B,C,D,Computer Science,History,Agriculture,Biology,D,B,D,D,False,1.71,Education
+Male,B,C,A,History,Religion,Agriculture,Business,B,C,B,D,False,2.57,Environmental Science
+Female,B,C,D,History,Computer Science,Chemistry,Business,B,B,E,F,False,1.79,Agriculture
+Female,A,D,A,Agriculture,Physics,Geography,Religion,E,D,B,A,False,2.5,Agricultural Science
+Female,D,C,D,Physics,Business,Computer Science,Geography,C,A,C,A,False,2.29,Education
+Female,A,C,A,Agriculture,Geography,History,Business,A,B,B,A,False,3.43,Education
+Male,C,B,A,Agriculture,Business,History,Chemistry,C,A,A,A,False,3.29,Food Science
+Female,A,D,F,Agriculture,Geography,Computer Science,Physics,B,C,C,D,False,1.86,Agriculture
+Male,D,A,D,Agriculture,Geography,Computer Science,Chemistry,D,B,F,A,False,2.0,Telecommunications
+Female,B,D,F,Computer Science,Agriculture,Chemistry,Religion,D,A,D,B,False,1.86,Education
+Male,C,B,B,Business,Chemistry,Physics,Geography,B,B,C,B,False,2.71,Fine Arts
+Female,A,B,D,Business,Religion,Geography,Computer Science,A,F,C,C,False,2.29,Graphic Design
+Male,A,A,B,Agriculture,Business,Biology,Computer Science,A,C,C,D,False,2.86,Counseling
+Female,D,D,F,Physics,History,Agriculture,Computer Science,E,A,B,F,False,1.36,Education
+Male,C,B,C,Biology,Business,Computer Science,Physics,F,B,A,B,False,2.43,Hospitality Management
+Male,B,C,B,Business,Computer Science,Chemistry,Geography,C,A,C,B,False,2.71,Education
+Male,B,B,A,Business,Agriculture,Chemistry,Geography,C,C,C,F,False,2.29,Education
+Male,D,B,B,Business,Chemistry,Religion,Agriculture,D,B,F,B,False,2.0,Education
+Female,B,C,D,Chemistry,Business,History,Religion,B,E,B,F,False,1.79,Agriculture
+Female,B,B,E,Physics,Biology,Geography,Religion,B,C,A,C,False,2.5,Hospitality Management
+Male,E,C,B,Geography,Chemistry,Biology,Computer Science,D,C,B,F,False,1.64,Education
+Female,A,E,E,Business,History,Religion,Agriculture,B,B,C,A,False,2.43,Education
+Male,D,A,D,History,Chemistry,Physics,Religion,F,C,C,B,False,1.86,Business Administration
+Female,D,B,A,Computer Science,Biology,Physics,Chemistry,B,D,D,B,True,2.29,Telecommunications
+Male,B,F,B,History,Religion,Business,Geography,C,C,B,B,False,2.29,Telecommunications
+Male,A,A,D,Geography,Physics,Chemistry,Agriculture,B,C,C,C,False,2.57,Agricultural Science
+Female,A,D,C,Agriculture,Biology,Geography,Religion,B,C,B,E,False,2.21,Education
+Female,A,A,C,Biology,Computer Science,Agriculture,Physics,E,A,A,D,False,2.79,Psychology
+Male,E,A,C,Geography,Religion,Physics,Chemistry,C,F,D,C,False,1.64,Agriculture
+Male,B,C,C,Business,Physics,Biology,Agriculture,B,F,B,C,False,2.14,Education
+Female,A,A,B,History,Geography,Business,Physics,C,A,C,A,False,3.29,Counseling
+Female,C,C,D,Agriculture,Computer Science,Business,Biology,D,C,B,B,False,2.0,Telecommunications
+Male,B,C,D,Religion,History,Agriculture,Geography,C,A,B,E,False,2.21,Telecommunications
+Male,B,B,A,Geography,Agriculture,Religion,Chemistry,C,B,B,A,False,3.14,Hospitality Management
+Male,D,D,C,Religion,Physics,Agriculture,Biology,C,F,B,B,False,1.71,Business Administration
+Male,B,D,B,History,Business,Biology,Chemistry,A,A,B,C,False,2.86,Environmental Science
+Male,A,C,B,Chemistry,Biology,Physics,Business,C,C,C,B,True,2.57,Forestry
+Female,C,C,B,Physics,Business,Computer Science,Biology,C,C,B,D,False,2.14,Education
+Male,A,D,A,Physics,Agriculture,Computer Science,Business,D,F,B,C,False,2.14,Education
+Female,C,B,B,Business,Physics,Agriculture,History,D,C,A,E,False,2.21,Music
+Male,D,B,D,Computer Science,Religion,Agriculture,Geography,A,D,A,B,False,2.43,Graphic Design
+Male,A,C,C,Religion,Business,Geography,History,E,D,B,F,False,1.79,Education
+Female,D,A,B,History,Physics,Business,Biology,C,B,D,A,False,2.57,Food Science
+Male,C,B,B,Physics,Biology,Chemistry,Agriculture,C,D,C,D,True,2.0,Telecommunications
+Male,E,D,B,Agriculture,Computer Science,Geography,Biology,B,C,B,A,False,2.36,Education
+Male,B,C,B,History,Chemistry,Physics,Geography,B,D,A,A,False,2.86,Telecommunications
+Male,A,C,F,Religion,Physics,Agriculture,Business,A,B,A,A,False,3.0,Agricultural Science
+Male,D,C,D,Business,Geography,Biology,History,B,D,C,C,False,1.71,Business Administration
+Male,A,C,A,Agriculture,History,Business,Religion,B,B,A,C,False,3.14,Computer Science
+Male,C,A,C,Biology,Physics,Agriculture,Chemistry,B,A,F,C,True,2.43,Fine Arts
+Female,C,E,C,Biology,Business,History,Geography,B,A,B,A,False,2.64,Telecommunications
+Female,C,C,A,Agriculture,Computer Science,Physics,Business,C,D,B,A,False,2.57,Environmental Science
+Male,C,C,B,Biology,Physics,Agriculture,Computer Science,D,B,B,C,False,2.29,Education
+Male,B,D,B,Geography,Religion,Agriculture,Physics,B,A,D,B,False,2.57,Education
+Male,F,E,B,Geography,Physics,Biology,History,D,C,C,B,False,1.64,Education
+Female,D,A,D,Physics,Computer Science,Business,Biology,A,C,F,D,False,1.86,Agriculture
+Female,D,B,B,Physics,Agriculture,Religion,Computer Science,B,C,B,E,False,2.21,Theatre Arts
+Male,A,B,C,Physics,Agriculture,Biology,Business,C,D,B,B,False,2.57,Agricultural Science
+Female,D,B,B,Business,Agriculture,Chemistry,Physics,A,C,C,D,False,2.29,Telecommunications
+Female,B,D,B,Physics,Biology,Agriculture,Geography,A,C,A,D,False,2.57,Food Science
+Male,C,C,C,Physics,Religion,Business,Biology,B,B,C,B,False,2.43,Education
+Female,A,C,B,Physics,Biology,History,Agriculture,D,B,C,C,False,2.43,Education
+Male,D,B,A,Chemistry,History,Biology,Agriculture,F,A,D,B,False,2.29,Fine Arts
+Male,C,F,C,Agriculture,Physics,Computer Science,Biology,B,B,D,A,False,2.14,Telecommunications
+Female,B,D,D,Geography,Biology,Religion,Business,B,B,A,B,False,2.57,Forestry
+Female,B,E,A,Business,Agriculture,Physics,Computer Science,A,B,C,D,False,2.5,Environmental Science
+Male,A,B,C,History,Biology,Geography,Religion,E,A,C,C,False,2.5,Tourism
+Female,C,A,B,Geography,Business,Chemistry,History,A,F,E,B,False,2.36,Hospitality Management
+Male,B,C,C,Agriculture,Computer Science,Religion,Business,B,D,B,A,False,2.57,Agricultural Science
+Female,B,D,D,History,Computer Science,Chemistry,Geography,B,E,C,E,False,1.57,Education
+Male,A,C,B,History,Computer Science,Physics,Religion,A,D,F,A,False,2.57,Education
+Male,F,C,B,Biology,Chemistry,Business,Physics,B,D,D,D,True,1.57,Education
+Male,A,B,D,Geography,Business,Agriculture,Biology,B,C,C,A,False,2.71,Sociology
+Male,F,B,A,Business,Physics,History,Agriculture,B,C,D,D,False,2.0,Telecommunications
+Female,E,C,C,Chemistry,Religion,Geography,Biology,A,D,C,A,False,2.21,Telecommunications
+Male,B,A,C,Computer Science,Religion,Physics,Business,D,C,C,B,False,2.43,Accounting
+Female,B,B,B,Geography,Physics,Agriculture,Business,A,B,C,B,False,3.0,Accounting
+Female,E,E,C,Religion,Chemistry,History,Biology,C,C,D,D,False,1.29,Agriculture
+Female,D,D,C,Business,Physics,Geography,History,B,D,B,A,False,2.14,Education
+Female,B,F,D,History,Physics,Biology,Religion,E,D,D,C,False,1.21,Business Administration
+Male,C,C,A,Religion,Biology,Agriculture,Physics,D,A,A,B,False,2.86,Agricultural Science
+Male,D,A,A,Chemistry,Computer Science,Physics,Agriculture,D,B,A,C,False,2.71,Counseling
+Male,B,B,C,Chemistry,Computer Science,Religion,Physics,A,A,C,B,False,3.0,Education
+Female,C,B,B,Chemistry,Religion,Geography,Biology,D,B,A,A,False,2.86,Law
+Male,B,A,C,Chemistry,Agriculture,Geography,History,D,A,D,B,False,2.57,Culinary Arts
+Female,B,B,E,Biology,Physics,Religion,Geography,C,A,D,B,False,2.36,Theatre Arts
+Female,B,C,D,Geography,Chemistry,Physics,Computer Science,A,D,D,B,False,2.14,Education
+Female,D,B,C,Geography,Agriculture,Physics,Computer Science,C,D,C,A,False,2.14,Telecommunications
+Male,B,C,C,History,Business,Computer Science,Physics,C,C,C,B,False,2.29,Education
+Female,B,B,C,Chemistry,Geography,Computer Science,Biology,A,D,B,F,False,2.29,Graphic Design
+Female,F,D,A,Religion,History,Geography,Chemistry,C,A,B,A,False,2.57,Telecommunications
+Female,F,D,F,Physics,Computer Science,Agriculture,Religion,A,C,A,C,False,1.86,Education
+Female,C,B,B,Physics,Business,Religion,Geography,A,C,A,A,False,3.14,Journalism
+Female,F,A,C,Computer Science,Business,Agriculture,Physics,C,B,C,A,False,2.43,Hospitality Management
+Female,B,E,A,Geography,Physics,History,Chemistry,D,D,C,C,False,1.93,Education
+Male,B,E,A,History,Biology,Business,Computer Science,D,E,A,E,False,1.93,Business Administration
+Male,B,C,C,Religion,History,Computer Science,Agriculture,A,B,A,B,False,3.0,Information Technology
+Female,B,C,F,Computer Science,History,Chemistry,Geography,A,B,C,C,False,2.29,Telecommunications
+Female,A,C,C,Chemistry,Computer Science,Religion,History,C,C,B,D,False,2.29,Telecommunications
+Male,B,D,C,Business,History,Biology,Religion,B,A,B,C,False,2.57,Forestry
+Female,A,B,C,Computer Science,Physics,Biology,Religion,D,D,C,A,False,2.43,Education
+Male,B,A,D,History,Physics,Religion,Biology,F,C,A,D,False,2.14,Education
+Male,F,D,E,Religion,Computer Science,Agriculture,Physics,D,A,F,C,False,1.21,Agriculture
+Female,B,A,A,Physics,Computer Science,Business,Religion,A,B,C,B,False,3.29,Economics
+Male,C,B,E,Computer Science,Agriculture,Biology,Chemistry,D,A,D,D,False,1.79,Business Administration
+Female,F,E,F,Biology,Agriculture,Physics,History,C,B,B,B,False,1.64,Education
+Female,B,C,B,Computer Science,Biology,Geography,Physics,F,C,B,A,False,2.43,Telecommunications
+Male,A,A,C,Religion,Biology,Agriculture,Computer Science,B,C,A,B,False,3.14,Food Science
+Male,E,C,C,Chemistry,History,Geography,Business,A,D,B,F,False,1.79,Business Administration
+Male,A,A,F,History,Chemistry,Geography,Agriculture,A,B,A,C,False,3.0,Tourism
+Female,C,B,C,Business,Biology,Physics,Computer Science,A,D,B,B,False,2.57,Culinary Arts
+Female,F,D,C,Religion,Computer Science,Business,Chemistry,C,B,C,C,False,1.71,Business Administration
+Female,F,D,F,Chemistry,Biology,History,Computer Science,A,A,A,B,False,2.29,Telecommunications
+Female,B,F,A,Biology,Business,Computer Science,Agriculture,C,C,E,A,False,2.21,Education
+Male,A,D,C,Geography,History,Religion,Agriculture,F,A,A,B,False,2.57,Agricultural Science
+Female,A,C,B,Agriculture,Business,Computer Science,Physics,C,C,F,C,False,2.14,Telecommunications
+Male,A,C,A,Agriculture,Religion,Biology,Business,B,C,C,E,False,2.5,Telecommunications
+Female,D,B,C,Computer Science,Chemistry,Business,History,C,B,A,D,False,2.29,Graphic Design
+Female,E,B,B,Agriculture,Business,Biology,Geography,A,C,E,A,False,2.43,Fine Arts
+Male,B,A,A,Agriculture,History,Geography,Chemistry,C,F,B,C,False,2.57,Telecommunications
+Female,A,C,D,Religion,Geography,Biology,History,C,D,B,F,False,1.86,Business Administration
+Male,C,B,B,Biology,Geography,Agriculture,Physics,E,B,B,B,False,2.5,Music
+Female,B,D,A,Physics,Biology,Business,Geography,A,C,B,A,False,3.0,Forestry
+Female,B,C,B,Agriculture,Physics,Chemistry,Geography,B,B,B,A,False,3.0,Food Science
+Female,D,B,B,Biology,Religion,Agriculture,Business,B,C,A,B,False,2.71,Fine Arts
+Female,C,B,B,Geography,Biology,Business,History,C,D,B,A,False,2.57,Forestry
+Female,C,E,B,Agriculture,Chemistry,Computer Science,Biology,B,C,A,A,False,2.64,Food Science
+Female,A,B,D,Business,Agriculture,Computer Science,History,D,A,C,F,False,2.14,Accounting
+Male,A,F,B,Business,Agriculture,Chemistry,Geography,A,B,C,B,False,2.71,Education
+Female,A,C,B,Geography,Computer Science,Physics,Chemistry,A,A,A,B,False,3.43,Software Engineering
+Male,D,C,D,Business,Computer Science,Chemistry,Physics,A,A,A,C,False,2.57,Education
+Male,D,C,B,Biology,Chemistry,Geography,Religion,B,A,A,D,False,2.57,Agricultural Science
+Female,A,B,C,History,Religion,Biology,Business,D,B,D,B,False,2.43,Education
+Male,A,C,F,Computer Science,Religion,Chemistry,Physics,B,D,A,D,False,2.14,Education
+Male,B,D,A,Religion,Business,Geography,Chemistry,B,B,C,B,False,2.71,Education
+Female,D,F,A,Physics,Geography,Business,Computer Science,F,D,D,B,False,1.43,Education
+Female,C,E,B,History,Biology,Chemistry,Geography,A,A,C,B,False,2.64,Forestry
+Male,A,C,A,Agriculture,History,Geography,Business,D,C,B,C,False,2.57,Telecommunications
+Female,E,E,C,Chemistry,Business,Physics,History,A,A,C,C,False,2.14,Education
+Female,E,C,C,Agriculture,Business,Computer Science,Chemistry,A,A,A,A,False,2.93,Environmental Science
+Female,C,B,B,Business,Biology,Agriculture,Physics,A,D,D,E,False,2.07,Education
+Male,B,D,A,Physics,Business,Geography,Religion,D,E,A,F,False,1.93,Agriculture
+Male,B,F,C,History,Physics,Biology,Computer Science,A,E,D,A,False,2.07,Telecommunications
+Male,C,C,C,Religion,Geography,Agriculture,Biology,C,A,A,A,False,2.86,Environmental Science
+Female,C,B,B,History,Physics,Business,Chemistry,B,A,F,B,False,2.57,Hospitality Management
+Female,C,A,F,Computer Science,History,Physics,Geography,C,C,E,A,False,2.07,Telecommunications
+Male,A,B,A,Religion,Biology,Geography,Business,B,B,A,E,False,3.07,Business Administration
+Male,A,C,B,Business,Religion,Physics,Agriculture,B,A,D,A,False,3.0,Food Science
+Male,A,D,B,Biology,Business,Geography,Physics,B,A,B,C,False,2.86,Computer Science
+Male,B,B,B,Business,Geography,Physics,Biology,A,A,C,B,False,3.14,Forestry
+Male,E,C,B,Computer Science,Geography,History,Religion,A,A,B,C,False,2.64,Education
+Female,B,B,C,Agriculture,Chemistry,Computer Science,Business,A,B,A,A,False,3.29,Graphic Design
+Female,A,B,C,Religion,Physics,Geography,Biology,B,C,D,A,False,2.71,Counseling
+Male,A,B,C,Computer Science,Physics,Agriculture,Business,C,B,B,B,False,2.86,Telecommunications
+Male,C,A,C,History,Agriculture,Physics,Biology,B,B,B,B,False,2.86,Hospitality Management
+Male,B,B,D,Religion,Computer Science,Chemistry,Biology,A,B,D,D,False,2.29,Theatre Arts
+Female,B,C,A,Chemistry,Physics,Biology,Religion,A,D,C,A,True,2.86,Environmental Science
+Male,B,C,A,Biology,History,Chemistry,Computer Science,B,E,B,A,False,2.79,Environmental Science
+Male,D,D,C,Physics,Religion,Geography,Chemistry,B,B,D,B,False,2.0,Telecommunications
+Female,D,B,D,Physics,Computer Science,Agriculture,History,D,F,B,C,False,1.57,Education
+Female,B,C,E,Physics,Geography,Agriculture,History,A,C,B,E,False,2.14,Education
+Male,A,C,C,Religion,Agriculture,Biology,Chemistry,D,E,C,B,False,2.07,Education
+Female,B,C,A,Business,Agriculture,Physics,Religion,C,B,B,C,False,2.71,Forestry
+Male,A,E,A,Biology,Physics,Business,Computer Science,D,C,C,B,False,2.36,Education
+Male,F,C,D,Physics,Geography,Religion,Chemistry,B,B,A,D,False,2.0,Telecommunications
+Male,F,F,C,Agriculture,Biology,Chemistry,History,C,E,A,A,False,1.79,Agriculture
+Female,D,C,C,Business,Geography,History,Physics,B,C,A,A,False,2.57,Education
+Female,C,B,D,Geography,Agriculture,Biology,Computer Science,B,F,B,A,False,2.29,Education
+Male,A,A,A,Chemistry,Religion,Business,Computer Science,D,A,A,D,False,3.14,Psychology
+Male,C,A,C,Geography,Biology,Religion,Chemistry,B,B,B,B,False,2.86,Music
+Male,B,B,B,Computer Science,History,Physics,Biology,A,B,E,A,False,2.93,Accounting
+Male,B,C,C,History,Geography,Chemistry,Physics,C,A,B,C,False,2.57,Telecommunications
+Female,C,D,D,Computer Science,Chemistry,Physics,Religion,C,C,A,B,False,2.14,Telecommunications
+Female,E,A,C,Agriculture,History,Computer Science,Business,C,B,B,D,False,2.21,Fine Arts
+Female,D,A,D,History,Physics,Geography,Agriculture,A,B,B,E,False,2.36,Theatre Arts
+Female,D,C,B,Chemistry,History,Computer Science,Geography,C,D,A,C,False,2.14,Telecommunications
+Male,A,C,B,Agriculture,Geography,Computer Science,Business,B,C,F,B,False,2.43,Education
+Male,B,D,B,Business,Chemistry,Agriculture,Religion,B,F,C,A,False,2.29,Telecommunications
+Male,B,B,B,Geography,Physics,Agriculture,History,D,A,C,C,False,2.57,Food Science
+Female,B,B,D,Physics,History,Biology,Computer Science,C,D,E,C,False,1.79,Agriculture
+Male,C,B,B,Geography,Biology,Computer Science,Business,D,D,C,D,False,1.86,Education
+Female,A,B,C,Geography,History,Chemistry,Computer Science,B,C,C,A,False,2.86,Accounting
+Female,B,F,A,Business,Computer Science,Biology,Geography,B,A,B,A,False,3.0,Information Technology
+Female,A,B,B,History,Biology,Computer Science,Physics,C,B,B,A,False,3.14,Social Work
+Male,C,D,B,Biology,Geography,Physics,Agriculture,A,B,C,A,False,2.71,Food Science
+Male,C,C,C,Religion,History,Chemistry,Computer Science,B,A,B,D,False,2.43,Telecommunications
+Female,B,C,E,Chemistry,Physics,Business,Biology,D,A,A,A,True,2.64,Telecommunications
+Female,B,C,D,Agriculture,Business,Physics,Computer Science,B,D,F,A,False,2.0,Education
+Male,D,B,A,Chemistry,Computer Science,Geography,Business,B,D,F,C,False,2.0,Education
+Female,A,C,B,Physics,Biology,Geography,Religion,B,B,C,C,False,2.71,Education
+Male,C,B,C,Business,Agriculture,Computer Science,Geography,B,B,A,B,False,2.86,Psychology
+Male,A,A,E,Chemistry,Business,Computer Science,Geography,A,B,A,C,False,3.07,Education
+Female,E,C,B,Biology,Computer Science,Religion,Geography,F,D,C,B,False,1.64,Agriculture
+Female,B,C,B,Computer Science,Chemistry,Biology,Geography,C,B,D,A,False,2.57,Agricultural Science
+Female,B,A,A,Biology,History,Religion,Chemistry,A,A,B,A,False,3.71,Tourism
+Male,A,B,B,Physics,Agriculture,Chemistry,Geography,D,B,D,A,False,2.71,Theatre Arts
+Male,C,D,E,Geography,Business,Physics,Chemistry,E,F,A,B,False,1.57,Business Administration
+Male,D,B,D,Biology,Religion,Business,Computer Science,D,B,C,E,False,1.64,Education
+Male,A,B,A,Geography,History,Business,Religion,C,E,A,D,False,2.64,Economics
+Male,B,B,A,Chemistry,Physics,Geography,Agriculture,C,B,C,C,False,2.71,Music
+Male,A,A,B,Agriculture,Geography,History,Chemistry,A,B,F,F,False,2.57,Environmental Science
+Male,B,B,B,Business,Agriculture,History,Biology,B,C,F,A,False,2.57,Accounting
+Male,B,C,B,Computer Science,Biology,Geography,Religion,F,B,D,B,False,2.14,Telecommunications
+Female,B,A,B,Biology,Chemistry,Physics,Religion,A,D,B,A,True,3.14,Accounting
+Female,A,E,B,Physics,History,Computer Science,Religion,A,B,A,B,False,3.07,Civil Engineering
+Female,B,A,D,Chemistry,Computer Science,History,Physics,A,D,B,B,False,2.71,Psychology
+Female,B,C,B,Business,Computer Science,Agriculture,Geography,B,E,A,D,False,2.36,Education
+Female,E,E,B,History,Chemistry,Biology,Computer Science,C,C,C,B,False,1.86,Education
+Female,D,C,D,Physics,Religion,Geography,Computer Science,B,E,D,A,False,1.79,Education
+Male,C,A,A,Religion,Business,Geography,History,E,F,C,C,False,2.07,Education
+Male,B,C,C,Geography,Agriculture,Religion,Business,B,A,C,C,False,2.57,Food Science
+Female,B,F,B,Agriculture,Geography,Physics,Business,C,B,C,A,False,2.43,Telecommunications
+Female,C,D,D,History,Geography,Physics,Computer Science,E,D,B,B,False,1.64,Business Administration
+Female,E,C,F,Biology,Business,Religion,Computer Science,C,B,C,B,False,1.79,Business Administration
+Male,C,C,B,Biology,Physics,Agriculture,Religion,B,B,B,A,False,2.86,Environmental Science
+Female,C,A,D,Biology,Agriculture,Chemistry,Physics,B,B,B,C,True,2.57,Culinary Arts
+Male,B,B,B,Business,Chemistry,Biology,Computer Science,B,C,C,A,False,2.86,Agricultural Science
+Male,A,A,C,Biology,Agriculture,History,Chemistry,D,C,B,B,False,2.71,Telecommunications
+Female,F,D,C,Physics,Biology,Agriculture,Geography,C,E,A,C,False,1.64,Agriculture
+Male,D,B,B,Biology,Computer Science,Geography,Physics,A,D,F,B,False,2.14,Education
+Male,A,C,D,Geography,Religion,History,Business,D,C,B,A,False,2.43,Education
+Female,C,B,B,Geography,History,Chemistry,Agriculture,A,C,E,A,False,2.64,Hospitality Management
+Female,B,C,D,History,Agriculture,Physics,Religion,B,B,D,F,False,1.86,Education
+Female,A,E,D,Computer Science,History,Physics,Religion,B,F,B,B,False,2.07,Education
+Female,E,C,C,Agriculture,Physics,Geography,History,C,A,A,C,False,2.36,Telecommunications
+Female,C,C,F,History,Business,Physics,Computer Science,E,E,B,B,False,1.57,Education
+Female,C,E,C,Computer Science,Business,Religion,Chemistry,F,A,B,C,False,1.93,Business Administration
+Female,A,B,B,Chemistry,Physics,Computer Science,Geography,B,B,C,A,False,3.14,Theatre Arts
+Male,D,B,B,Religion,Physics,History,Business,A,A,A,A,False,3.29,Music
+Male,B,B,B,Computer Science,Business,Physics,Geography,F,D,D,C,False,1.86,Marketing
+Male,E,A,B,Religion,Physics,Geography,Chemistry,B,D,A,A,False,2.79,Hospitality Management
+Female,A,A,D,Geography,Chemistry,History,Agriculture,A,C,A,B,False,3.14,Telecommunications
+Male,C,B,A,Agriculture,Religion,Biology,Business,C,B,C,C,False,2.57,Education
+Female,C,B,B,Biology,Computer Science,Geography,Religion,D,D,F,A,False,2.0,Education
+Male,C,E,B,Computer Science,Biology,Religion,Chemistry,B,C,B,D,False,2.07,Telecommunications
+Male,A,A,E,Business,Physics,History,Agriculture,C,C,B,D,False,2.36,Tourism
+Female,F,B,B,Agriculture,History,Computer Science,Biology,B,E,A,B,False,2.36,Telecommunications
+Male,A,A,D,Geography,Chemistry,Computer Science,Physics,A,C,A,A,False,3.29,Marketing
+Male,A,F,B,Agriculture,Geography,Religion,Biology,C,A,A,B,False,2.86,Cybersecurity
+Female,B,D,B,History,Computer Science,Physics,Agriculture,F,A,C,A,False,2.43,Telecommunications
+Male,B,C,B,Physics,Computer Science,Religion,Biology,B,A,F,D,False,2.29,Education
+Male,F,D,C,Geography,Agriculture,Business,Chemistry,B,B,A,C,False,2.14,Telecommunications
+Female,B,D,A,History,Geography,Chemistry,Physics,A,C,D,A,False,2.71,Education
+Male,D,A,C,Physics,Computer Science,Biology,Business,A,A,A,C,False,3.0,Fine Arts
+Female,D,C,A,History,Computer Science,Biology,Religion,C,B,A,A,False,2.86,Food Science
+Male,B,A,E,Geography,Agriculture,Business,History,C,B,C,A,False,2.64,Forestry
+Female,C,F,A,Religion,Geography,Agriculture,Chemistry,F,C,B,B,False,2.0,Education
+Female,C,C,B,History,Biology,Religion,Physics,F,A,C,D,False,2.0,Telecommunications
+Female,B,C,C,Biology,Religion,History,Computer Science,A,B,C,D,False,2.43,Education
+Female,A,B,D,Agriculture,Chemistry,Business,Computer Science,A,A,A,A,False,3.43,Food Science
+Male,B,C,A,Chemistry,Computer Science,Geography,Religion,B,C,B,B,False,2.86,Information Technology
+Male,A,D,D,Physics,Business,Biology,Agriculture,A,B,C,D,False,2.29,Telecommunications
+Female,C,C,C,Computer Science,Chemistry,Business,Religion,A,B,C,A,False,2.71,Telecommunications
+Female,D,B,B,History,Business,Biology,Geography,A,B,B,A,False,3.0,Law
+Female,A,B,B,Agriculture,Chemistry,Physics,Religion,B,B,B,B,False,3.14,Law
+Female,E,B,B,History,Chemistry,Physics,Biology,F,D,F,A,True,1.64,Agriculture
+Female,B,B,B,History,Religion,Business,Chemistry,A,C,B,B,False,3.0,Architecture
+Female,B,D,B,Biology,Computer Science,History,Business,B,B,A,A,False,3.0,AI & Machine Learning
+Male,A,D,C,Agriculture,Geography,Business,Biology,F,B,D,A,False,2.14,Education
+Female,C,A,E,Geography,Biology,Physics,Chemistry,D,C,A,C,True,2.21,Fine Arts
+Female,A,A,A,Religion,History,Biology,Computer Science,E,B,B,A,False,3.21,Fine Arts
+Female,A,F,D,Chemistry,Religion,Physics,Agriculture,B,B,A,A,False,2.71,Forestry
+Male,A,A,A,Business,Geography,Computer Science,Chemistry,B,C,F,B,False,2.86,Information Technology
+Female,A,A,B,Geography,Agriculture,Computer Science,Chemistry,E,C,C,B,False,2.64,Agricultural Science
+Male,D,A,C,Computer Science,Chemistry,Business,Religion,C,F,A,A,False,2.43,Fine Arts
+Female,D,B,C,History,Business,Geography,Chemistry,D,D,C,B,False,1.86,Business Administration
+Female,D,D,B,Religion,Business,Agriculture,Physics,F,D,D,A,False,1.57,Business Administration
+Female,B,D,A,Religion,Biology,Geography,History,C,D,B,D,False,2.14,Education
+Female,A,C,A,Business,Chemistry,Physics,Religion,A,C,A,E,False,2.93,Education
+Male,F,A,B,Agriculture,Geography,Computer Science,Religion,B,B,B,D,False,2.43,Hospitality Management
+Male,D,C,B,Agriculture,Business,Physics,Biology,D,A,B,F,False,2.0,Telecommunications
+Female,A,B,E,History,Business,Biology,Religion,B,C,A,A,False,2.93,Graphic Design
+Male,B,C,E,History,Agriculture,Chemistry,Computer Science,D,A,B,C,False,2.21,Telecommunications
+Male,D,A,B,Geography,Agriculture,Computer Science,Business,E,B,B,B,False,2.5,Culinary Arts
+Female,C,C,C,History,Agriculture,Religion,Geography,A,C,D,A,False,2.43,Education
+Female,B,D,C,Computer Science,Geography,Agriculture,History,A,A,C,A,False,2.86,Information Technology
+Male,D,D,A,Agriculture,Geography,History,Physics,A,C,E,D,False,1.93,Business Administration
+Male,B,C,D,Chemistry,Agriculture,Business,Computer Science,B,A,A,A,False,3.0,Computer Science
+Male,D,B,A,Agriculture,Chemistry,Computer Science,History,C,B,C,B,False,2.57,Music
+Male,B,D,C,Biology,Agriculture,Religion,Chemistry,F,B,C,D,False,1.71,Agriculture
+Male,B,C,B,Physics,History,Computer Science,Chemistry,F,B,A,B,False,2.57,Telecommunications
+Male,B,A,B,Physics,Chemistry,Computer Science,Religion,B,C,D,B,False,2.71,Education
+Female,D,D,C,Agriculture,Biology,Business,Chemistry,C,B,C,C,False,1.86,Business Administration
+Male,A,C,F,Biology,Business,Computer Science,Agriculture,D,F,E,C,False,1.36,Education
+Male,A,C,D,Agriculture,History,Biology,Computer Science,B,A,C,B,False,2.71,Environmental Science
+Male,E,E,D,Biology,Geography,Physics,Computer Science,B,C,D,D,False,1.29,Agriculture
+Male,B,B,C,Chemistry,Biology,Computer Science,Religion,B,C,A,D,False,2.57,Environmental Science
+Male,F,D,A,Geography,History,Business,Chemistry,D,B,C,F,False,1.57,Agriculture
+Male,B,D,C,Physics,Business,Religion,Agriculture,A,C,C,B,False,2.43,Education
+Male,C,D,B,Biology,Agriculture,Computer Science,Geography,C,C,B,B,False,2.29,Education
+Female,A,E,C,History,Chemistry,Computer Science,Business,A,B,E,F,False,2.0,Education
+Male,D,B,A,Chemistry,Business,Physics,Computer Science,F,A,B,B,False,2.57,Culinary Arts
+Female,B,B,C,Computer Science,Biology,Geography,Religion,C,D,B,C,False,2.29,Fine Arts
+Female,F,D,F,Agriculture,History,Chemistry,Geography,C,B,D,D,False,1.14,Education
+Female,B,D,F,Chemistry,Computer Science,Geography,History,C,B,A,C,False,2.14,Education
+Female,B,B,A,History,Physics,Religion,Chemistry,C,A,B,C,False,3.0,Computer Engineering
+Female,D,D,B,History,Geography,Biology,Chemistry,B,C,D,D,False,1.71,Agriculture
+Female,F,A,D,Chemistry,History,Business,Biology,A,B,B,C,False,2.43,Tourism
+Female,C,B,B,Religion,History,Chemistry,Computer Science,A,F,E,F,False,1.79,Education
+Female,F,C,E,Business,Computer Science,Religion,Geography,C,B,B,C,False,1.79,Agriculture
+Male,C,A,A,Religion,Computer Science,Geography,Physics,B,F,C,B,False,2.57,Music
+Male,C,A,D,Religion,Agriculture,Computer Science,Chemistry,D,D,C,B,False,2.0,Telecommunications
+Female,C,D,A,Agriculture,Geography,Chemistry,Business,A,C,F,A,False,2.43,Education
+Female,D,A,B,Chemistry,Biology,Business,Agriculture,C,A,E,E,False,2.14,Telecommunications
+Female,A,E,A,Biology,Computer Science,Chemistry,Religion,B,D,C,B,False,2.5,Agricultural Science
+Male,C,B,F,Business,Chemistry,Agriculture,Religion,C,A,E,C,False,1.93,Agriculture
+Male,B,C,A,Business,Biology,Geography,Chemistry,A,D,B,E,False,2.5,Environmental Science
+Male,D,D,C,Biology,Geography,Agriculture,Religion,D,C,A,B,False,2.0,Telecommunications
+Male,C,A,C,Physics,Religion,History,Business,C,B,C,C,False,2.43,Education
+Male,E,A,C,History,Geography,Agriculture,Business,A,C,D,D,False,2.07,Education
+Female,B,B,B,Physics,Religion,Geography,Chemistry,B,C,B,C,False,2.71,Psychology
+Male,D,D,F,Business,History,Physics,Computer Science,A,D,C,D,False,1.43,Business Administration
+Female,C,F,E,Computer Science,Biology,Physics,Agriculture,C,B,A,E,False,1.71,Business Administration
+Male,A,B,B,Physics,Religion,History,Chemistry,D,B,B,A,False,3.0,Culinary Arts
+Female,D,B,F,Biology,History,Physics,Computer Science,C,B,D,D,False,1.57,Agriculture
+Male,E,C,E,Agriculture,Business,History,Religion,B,D,A,F,False,1.57,Education
+Female,B,B,C,Physics,Chemistry,History,Business,B,B,A,B,False,3.0,Fine Arts
+Female,D,F,A,Agriculture,Biology,Geography,Chemistry,A,D,B,B,False,2.29,Education
+Female,E,D,D,History,Business,Biology,Computer Science,D,F,A,C,False,1.36,Agriculture
+Male,B,B,C,History,Physics,Biology,Religion,C,D,C,D,False,2.0,Telecommunications
+Female,B,A,C,Chemistry,Business,Agriculture,Biology,B,C,A,B,False,3.0,Sociology
+Female,A,C,A,Computer Science,History,Business,Agriculture,D,D,C,B,False,2.43,Telecommunications
+Male,F,C,C,Biology,Geography,Chemistry,Business,A,D,A,A,False,2.43,Telecommunications
+Female,D,D,A,Geography,Biology,Agriculture,Business,E,A,D,B,False,2.07,Education
+Male,B,C,C,Business,Physics,Geography,History,B,A,A,B,False,3.0,Electrical Engineering
+Male,D,B,C,Chemistry,Computer Science,Geography,Business,B,A,C,B,False,2.57,Culinary Arts
+Male,E,A,C,Geography,Religion,Agriculture,Physics,F,B,A,A,False,2.5,Hospitality Management
+Male,B,C,A,Religion,Geography,Business,Computer Science,A,C,A,A,False,3.29,Education
+Female,B,A,D,Business,Geography,Religion,Chemistry,A,D,A,D,False,2.57,Theatre Arts
+Male,B,B,B,Chemistry,Religion,Geography,Agriculture,B,A,D,C,False,2.71,Tourism
+Male,A,D,D,Biology,Chemistry,Physics,Agriculture,B,D,E,E,True,1.57,Education
+Male,D,B,C,History,Chemistry,Biology,Agriculture,B,C,A,A,False,2.71,Social Work
+Female,B,C,F,Geography,Biology,Computer Science,Agriculture,B,B,D,A,False,2.29,Education
+Female,A,A,E,Chemistry,Business,Geography,Computer Science,B,A,E,B,False,2.71,Economics
+Male,A,B,F,Chemistry,Physics,Biology,Computer Science,E,C,A,C,True,2.21,Telecommunications
+Female,B,D,D,Chemistry,Physics,Agriculture,Religion,D,A,A,C,False,2.29,Telecommunications
+Male,A,C,A,Physics,Chemistry,Geography,Agriculture,D,B,B,A,False,3.0,Telecommunications
+Male,B,A,A,Business,Religion,Agriculture,Geography,D,E,B,D,False,2.36,Culinary Arts
+Female,F,B,D,Physics,Religion,Computer Science,History,C,B,A,C,False,2.14,Telecommunications
+Female,B,B,C,History,Computer Science,Physics,Geography,B,D,D,F,False,1.86,Education
+Male,A,D,B,Geography,Religion,Business,Computer Science,C,A,A,A,False,3.14,Information Technology
+Male,A,D,C,Physics,Business,History,Geography,B,D,C,C,False,2.14,Education
+Male,C,A,A,Computer Science,Geography,Biology,Agriculture,A,B,F,C,False,2.71,Environmental Science
+Male,A,B,C,Geography,Religion,Chemistry,Business,A,B,C,F,False,2.57,Music
+Female,A,B,F,Geography,Physics,Chemistry,Business,E,C,C,D,False,1.79,Human Resource Management
+Male,D,A,D,Physics,Business,Religion,Biology,C,B,B,C,False,2.29,Graphic Design
+Female,A,F,C,Chemistry,Computer Science,Biology,Agriculture,D,A,B,E,False,2.07,Telecommunications
+Male,F,C,D,Religion,Physics,Chemistry,Biology,A,A,C,B,True,2.29,Education
+Female,C,B,A,Business,History,Computer Science,Geography,C,F,B,A,False,2.57,Culinary Arts
+Female,C,B,B,Chemistry,History,Computer Science,Biology,B,E,C,D,False,2.07,Education
+Male,B,C,B,Religion,Computer Science,Business,History,A,D,A,A,False,3.0,Architecture
+Female,B,A,B,Agriculture,Religion,Biology,Chemistry,B,A,D,A,False,3.14,Graphic Design
+Female,A,A,B,Religion,Biology,Chemistry,Business,B,D,B,A,False,3.14,Telecommunications
+Male,D,C,B,Religion,Geography,Agriculture,Biology,A,C,A,A,False,2.86,Food Science
+Male,E,A,B,Agriculture,Geography,History,Computer Science,A,C,C,B,False,2.64,Theatre Arts
+Male,D,B,C,Geography,Physics,Computer Science,Biology,C,C,B,B,False,2.29,Telecommunications
+Female,A,B,D,Biology,Religion,History,Computer Science,B,B,B,C,False,2.71,Graphic Design
+Male,A,C,B,Business,Geography,Computer Science,Chemistry,B,C,A,B,False,3.0,Cybersecurity
+Female,B,F,B,Biology,Chemistry,Business,History,A,B,C,A,False,2.71,Environmental Science
+Female,A,B,B,Chemistry,History,Religion,Geography,E,E,C,D,False,2.0,Education
+Male,B,D,D,Agriculture,Biology,Physics,History,C,E,D,C,False,1.5,Education
+Male,A,C,A,Geography,Physics,Biology,Religion,B,C,F,B,False,2.57,Food Science
+Female,A,C,F,Physics,Business,Geography,Agriculture,C,D,B,D,False,1.86,Agriculture
+Male,C,C,B,Computer Science,History,Agriculture,Physics,C,D,B,B,False,2.29,Telecommunications
+Female,B,C,E,Biology,Physics,Computer Science,History,D,B,A,A,False,2.5,Food Science
+Male,D,F,C,History,Business,Geography,Agriculture,A,D,E,E,False,1.29,Business Administration
+Female,D,A,D,Chemistry,Biology,Physics,Agriculture,B,C,C,B,True,2.29,Fine Arts
+Male,C,B,A,History,Geography,Agriculture,Physics,C,C,B,B,False,2.71,Graphic Design
+Female,C,C,F,Computer Science,Geography,Physics,Business,D,C,A,A,False,2.14,Education
+Female,C,B,D,Agriculture,Biology,Computer Science,History,C,A,B,B,False,2.57,Culinary Arts
+Female,C,B,B,History,Business,Physics,Religion,E,D,B,D,False,1.93,Business Administration
+Male,B,B,C,Chemistry,Physics,Religion,Agriculture,C,B,B,D,False,2.43,Fine Arts
+Male,D,A,B,Agriculture,Physics,Business,History,F,B,C,B,False,2.29,Theatre Arts
+Female,B,F,F,Business,Chemistry,Physics,Religion,F,C,B,C,False,1.43,Education
+Male,D,C,C,Religion,Geography,Physics,History,D,C,B,D,False,1.71,Education
+Female,E,C,D,Religion,Agriculture,Biology,Computer Science,A,D,B,D,False,1.79,Education
+Male,C,C,C,Chemistry,Religion,Agriculture,History,D,D,F,A,False,1.71,Education
+Female,B,B,C,Agriculture,Computer Science,Chemistry,Religion,B,B,E,B,False,2.5,Telecommunications
+Female,C,A,B,Business,Biology,Computer Science,Physics,B,C,A,A,False,3.14,Languages
+Female,B,B,F,Physics,Geography,Business,Agriculture,B,D,E,A,False,2.07,Accounting
+Male,B,A,A,Chemistry,Religion,History,Business,E,A,D,B,False,2.79,Graphic Design
+Male,D,D,F,History,Agriculture,Computer Science,Geography,B,E,A,A,False,1.93,Education
+Female,D,A,F,Chemistry,Business,History,Religion,C,D,A,B,False,2.14,Telecommunications
+Male,D,F,B,Biology,Geography,Religion,Physics,D,C,A,B,False,2.0,Education
+Female,C,E,C,Religion,Geography,Computer Science,Physics,A,E,B,C,False,2.0,Education
+Male,F,A,C,Business,Chemistry,Physics,Biology,A,C,B,C,True,2.43,Hospitality Management
+Male,D,C,A,Computer Science,Biology,History,Geography,D,D,B,B,False,2.14,Education
+Female,B,E,A,Religion,Business,Computer Science,Physics,C,D,A,B,False,2.5,Education
+Male,A,D,B,Geography,History,Biology,Religion,A,D,A,B,False,2.86,Food Science
+Female,D,A,F,Religion,Biology,Agriculture,History,B,C,B,F,False,1.86,Business Administration
+Female,B,A,A,Religion,Geography,Biology,Computer Science,D,C,A,E,False,2.64,Hospitality Management
+Male,A,A,A,Business,History,Agriculture,Chemistry,B,A,E,B,False,3.21,Social Work
+Female,B,A,B,Chemistry,History,Geography,Business,B,F,B,D,False,2.43,Graphic Design
+Female,D,B,C,Physics,Biology,Agriculture,Computer Science,B,A,A,D,False,2.57,Culinary Arts
+Female,B,A,C,Business,Geography,Chemistry,Computer Science,E,D,D,E,False,1.71,Business Administration
+Female,B,B,A,Geography,Religion,Agriculture,Business,A,B,C,B,False,3.14,Business Administration
+Female,A,B,C,Agriculture,Geography,Biology,Physics,A,A,B,C,False,3.14,Counseling
+Female,E,B,B,Chemistry,Computer Science,Agriculture,History,B,B,F,E,False,1.86,Agriculture
+Female,B,B,C,Religion,Biology,Geography,Agriculture,A,D,B,D,False,2.43,Education
+Male,A,D,B,Religion,History,Physics,Agriculture,C,A,D,C,False,2.43,Education
+Male,F,B,A,Computer Science,History,Agriculture,Physics,B,A,A,A,False,3.14,Music
+Female,B,A,A,Physics,Chemistry,Biology,Agriculture,C,D,B,B,True,2.86,Human Resource Management
+Female,D,A,B,Geography,Physics,History,Business,F,B,A,D,False,2.29,Telecommunications
+Male,D,A,A,Physics,Religion,Computer Science,Business,E,B,D,F,False,1.93,Education
+Male,C,A,D,Geography,Agriculture,Physics,Chemistry,B,A,A,D,False,2.71,Education
+Male,A,D,A,Business,Chemistry,Biology,Religion,E,C,B,A,False,2.64,Agricultural Science
+Male,A,C,A,Physics,History,Computer Science,Chemistry,B,B,B,D,False,2.86,Education
+Female,A,B,B,Religion,Biology,Business,Computer Science,C,B,B,B,False,3.0,Agricultural Science
+Male,B,E,A,Chemistry,Biology,Business,History,B,A,B,D,False,2.64,Forestry
+Female,B,C,B,Agriculture,Religion,Computer Science,History,D,A,C,A,False,2.71,Forestry
+Male,B,C,B,Religion,Geography,Business,Chemistry,B,B,E,A,False,2.64,Education
+Male,D,C,D,Chemistry,Computer Science,Religion,History,A,C,D,A,False,2.14,Telecommunications
+Male,C,D,D,Agriculture,Religion,Business,Biology,C,A,A,C,False,2.29,Telecommunications
+Female,F,C,D,Biology,Chemistry,Computer Science,Agriculture,D,B,C,C,False,1.57,Agriculture
+Female,D,D,B,Biology,Geography,Business,Computer Science,D,B,D,C,False,1.71,Business Administration
+Male,A,B,A,Computer Science,Business,Chemistry,Agriculture,D,B,F,E,False,2.21,Economics
+Male,A,A,B,Computer Science,Business,Chemistry,History,D,E,F,B,False,2.21,Telecommunications
+Female,D,A,E,Business,Agriculture,History,Biology,C,B,E,B,False,2.0,Telecommunications
+Male,B,B,C,Chemistry,Computer Science,Physics,Biology,B,A,C,C,True,2.71,Food Science
+Female,C,F,C,Religion,Chemistry,Geography,Agriculture,A,C,D,C,False,1.86,Business Administration
+Female,A,B,A,Geography,Physics,Chemistry,Biology,D,A,B,B,True,3.14,Journalism
+Female,F,A,A,Chemistry,Agriculture,History,Religion,D,C,F,D,False,1.71,Agriculture
+Male,E,D,A,Chemistry,History,Geography,Religion,A,C,B,A,False,2.64,Education
+Male,C,D,A,Business,History,Agriculture,Biology,C,C,A,B,False,2.57,Agricultural Science
+Male,A,B,C,History,Agriculture,Physics,Chemistry,B,A,A,C,False,3.14,Economics
+Female,A,A,D,Chemistry,Religion,History,Physics,A,B,A,A,False,3.43,Finance
+Female,B,C,B,Business,Geography,Computer Science,Physics,B,A,A,D,False,2.86,Information Technology
+Female,B,A,D,Physics,Religion,Chemistry,Business,D,E,D,B,False,1.93,Human Resource Management
+Female,C,A,B,Computer Science,Religion,Geography,History,C,C,A,F,False,2.43,Theatre Arts
+Male,C,D,B,Biology,Physics,Geography,Computer Science,A,C,B,D,False,2.29,Education
+Female,C,C,B,Religion,Agriculture,Biology,Physics,C,D,B,D,False,2.0,Education
+Male,D,D,C,Physics,Geography,Computer Science,History,C,C,A,C,False,2.0,Education
+Female,A,A,B,Religion,Computer Science,Agriculture,History,B,B,B,E,False,2.93,Business Administration
+Male,A,B,C,Business,Biology,History,Chemistry,D,D,D,D,False,1.86,Finance
+Female,A,B,C,Agriculture,Biology,Physics,Business,E,C,B,D,False,2.21,Finance
+Female,B,C,C,Religion,Chemistry,Agriculture,Physics,A,D,C,F,False,2.0,Telecommunications
+Female,A,D,E,Chemistry,Computer Science,History,Business,A,D,D,D,False,1.79,Education
+Female,B,B,B,Agriculture,Chemistry,Business,History,B,C,D,C,False,2.43,Accounting
+Male,B,D,A,Agriculture,Business,Computer Science,Religion,D,A,D,D,False,2.14,Telecommunications
+Male,C,D,D,Geography,Chemistry,Physics,Business,B,A,D,B,False,2.14,Education
+Male,A,F,D,History,Religion,Geography,Agriculture,B,B,B,D,False,2.14,Education
+Female,A,D,C,Chemistry,Religion,Computer Science,Business,B,A,B,B,False,2.86,Cybersecurity
+Female,D,B,C,Computer Science,History,Biology,Religion,F,C,D,A,False,1.86,Education
+Male,C,F,C,Business,Computer Science,Physics,History,C,A,D,C,False,1.86,Business Administration
+Female,D,B,A,Geography,Religion,Biology,Chemistry,C,B,A,D,False,2.57,Theatre Arts
+Male,C,B,B,Business,Agriculture,Biology,History,A,C,D,B,False,2.57,Hospitality Management
+Male,A,D,A,History,Physics,Religion,Business,A,B,A,A,False,3.43,Architecture
+Male,A,A,B,Physics,Biology,Computer Science,Religion,D,D,D,A,False,2.57,Forestry
+Male,C,C,C,Religion,Geography,Computer Science,Business,C,B,E,D,False,1.79,Business Administration
+Female,B,B,B,Geography,Business,Chemistry,Religion,D,C,D,C,False,2.14,Accounting
+Male,B,B,E,Chemistry,Agriculture,Geography,History,C,C,A,A,False,2.64,Music
+Male,B,C,C,History,Biology,Chemistry,Geography,D,B,D,A,False,2.29,Telecommunications
+Female,C,B,C,Agriculture,Chemistry,Physics,Biology,D,C,C,A,True,2.29,Theatre Arts
+Female,B,B,A,Biology,Geography,Physics,Chemistry,A,A,C,F,True,2.86,Social Work
+Female,B,B,B,Chemistry,Geography,History,Biology,A,C,B,F,False,2.57,Agricultural Science
+Female,C,C,C,Agriculture,Religion,Geography,Business,C,B,F,C,False,1.86,Business Administration
+Female,D,B,D,Agriculture,Computer Science,Business,Biology,D,A,C,D,False,1.86,Business Administration
+Male,A,D,B,Chemistry,Geography,Physics,Biology,D,E,B,A,True,2.36,Education
+Female,C,D,B,Physics,Biology,Chemistry,Computer Science,C,C,E,A,True,2.07,Telecommunications
+Female,B,A,C,Agriculture,Business,Biology,Geography,A,A,B,B,False,3.29,Agricultural Science
+Female,C,B,A,History,Physics,Chemistry,Computer Science,B,D,B,C,False,2.57,Theatre Arts
+Female,A,B,E,Physics,Business,Geography,Chemistry,E,C,C,B,False,2.14,Accounting
+Male,C,A,C,Geography,Agriculture,Physics,History,A,C,A,A,False,3.14,Graphic Design
+Female,C,D,B,Chemistry,History,Business,Physics,A,C,E,E,False,1.86,Education
+Male,A,C,A,Religion,Physics,Biology,Chemistry,B,C,D,C,True,2.57,Forestry
+Male,D,B,B,Chemistry,Religion,Agriculture,History,A,A,D,C,False,2.57,Forestry
+Female,C,B,F,Physics,Business,Agriculture,Geography,C,B,A,D,False,2.14,Telecommunications
+Female,C,A,A,Geography,Physics,Biology,Computer Science,B,C,E,F,False,2.21,Theatre Arts
+Female,C,B,E,Agriculture,Physics,Religion,History,C,C,C,A,False,2.21,Fine Arts
+Male,A,A,B,Religion,Business,Geography,History,B,C,D,A,False,3.0,Economics
+Female,B,D,F,Chemistry,Agriculture,History,Business,C,D,B,C,False,1.71,Agriculture
+Female,B,A,C,Agriculture,History,Geography,Business,B,C,A,D,False,2.71,Finance
+Female,B,E,F,Chemistry,Agriculture,Business,History,B,B,C,B,False,2.07,Education
+Female,B,C,C,Business,Geography,Chemistry,Physics,D,A,C,B,False,2.43,Telecommunications
+Male,C,D,E,Computer Science,Geography,Chemistry,Physics,B,B,B,C,False,2.07,Telecommunications
+Male,A,A,D,Physics,Biology,History,Geography,C,A,C,B,False,2.86,Economics
+Female,D,C,A,Agriculture,Geography,Physics,Religion,F,A,C,E,False,1.93,Agriculture
+Male,A,C,C,Geography,Computer Science,History,Business,B,A,C,F,False,2.43,Telecommunications
+Female,B,C,A,Geography,Computer Science,Religion,Agriculture,A,B,D,A,False,3.0,Computer Science
+Male,C,F,A,Religion,Business,Physics,Biology,B,B,C,D,False,2.14,Education
+Male,A,D,B,Geography,Chemistry,Religion,History,A,A,A,D,False,3.0,Data Science
+Female,B,A,B,Business,Agriculture,Physics,History,A,C,B,A,False,3.29,Finance
+Male,D,D,B,Biology,Religion,Computer Science,Agriculture,C,B,B,A,False,2.43,Education
+Male,B,B,D,Physics,Computer Science,History,Agriculture,D,C,C,D,False,1.86,Agriculture
+Male,B,A,C,History,Religion,Business,Physics,B,C,C,C,False,2.57,Accounting
+Female,A,D,B,Religion,Chemistry,Geography,Agriculture,B,A,B,C,False,2.86,Telecommunications
+Female,B,C,A,Religion,History,Computer Science,Biology,C,C,A,A,False,3.0,Forestry
+Male,A,C,B,Chemistry,Religion,Geography,Agriculture,C,B,B,D,False,2.57,Telecommunications
+Male,C,C,B,Business,Computer Science,Religion,Physics,B,A,C,A,False,2.86,Telecommunications
+Male,C,C,F,Business,Biology,Geography,Religion,B,D,C,B,False,1.86,Education
+Female,B,B,A,Physics,Computer Science,Geography,Business,A,B,C,D,False,2.86,Sociology
+Female,A,B,B,Chemistry,Agriculture,Business,Geography,B,A,B,C,False,3.14,Graphic Design
+Male,C,A,E,Business,Religion,History,Chemistry,B,A,B,B,False,2.79,Telecommunications
+Female,B,B,B,Business,Religion,History,Computer Science,A,C,C,F,False,2.43,Economics
+Male,B,B,A,Physics,Chemistry,Geography,Computer Science,D,C,B,A,False,2.86,Graphic Design
+Male,B,D,A,History,Computer Science,Business,Geography,D,E,A,C,False,2.21,Education
+Female,B,D,A,Chemistry,Business,Geography,History,A,D,A,C,False,2.71,Telecommunications
+Female,A,D,B,History,Computer Science,Geography,Physics,C,E,A,D,False,2.21,Telecommunications
+Male,A,B,B,Business,Physics,Agriculture,Chemistry,C,B,B,A,False,3.14,Data Science
+Female,A,C,B,Physics,Religion,Agriculture,Biology,B,A,D,A,False,3.0,Architecture
+Female,B,C,C,History,Computer Science,Biology,Geography,C,C,D,C,False,2.0,Education
+Male,D,F,B,Biology,Religion,Business,Geography,B,C,D,A,False,2.0,Telecommunications
+Male,A,D,A,Chemistry,Physics,Geography,History,C,C,A,D,False,2.57,Education
+Male,B,D,E,Computer Science,Geography,Business,Biology,D,B,D,C,False,1.64,Business Administration
+Male,B,A,F,Computer Science,Business,Geography,Physics,A,C,B,B,False,2.71,Hospitality Management
+Male,A,C,D,Religion,Business,Biology,Computer Science,C,D,C,C,False,2.0,Telecommunications
+Male,B,A,B,Geography,Biology,Religion,Chemistry,C,A,B,B,False,3.14,Hospitality Management
+Female,B,A,D,Physics,Geography,Business,History,C,A,B,A,False,3.0,Marketing
+Female,B,D,D,Chemistry,Business,Geography,Physics,D,A,B,E,False,1.93,Education
+Male,B,C,B,Biology,Chemistry,Physics,Computer Science,A,A,B,A,True,3.29,Aerospace Engineering
+Female,F,B,C,Biology,Agriculture,Business,Religion,D,C,A,B,False,2.14,Education
+Female,C,C,B,Geography,Computer Science,Biology,Chemistry,C,A,B,E,False,2.36,Telecommunications
+Female,C,B,D,Geography,Computer Science,History,Business,E,B,D,B,False,1.93,Agriculture
+Male,B,D,C,Religion,Geography,Physics,Computer Science,A,A,B,A,False,3.0,Software Engineering
+Female,B,C,C,Business,Computer Science,Geography,Religion,B,A,E,B,False,2.5,Education
+Female,B,B,B,Business,Religion,Agriculture,Physics,A,B,C,B,False,3.0,Marketing
+Male,F,D,D,Biology,History,Agriculture,Chemistry,A,B,A,D,False,2.0,Telecommunications
+Female,C,A,A,Religion,Agriculture,Computer Science,Business,D,A,A,A,False,3.29,Languages
+Male,B,C,B,History,Physics,Agriculture,Religion,D,C,C,C,False,2.14,Education
+Male,B,B,C,Chemistry,Biology,Religion,Computer Science,A,E,C,C,False,2.36,Music
+Female,C,B,C,Agriculture,Chemistry,Religion,Geography,B,A,D,B,False,2.57,Fine Arts
+Male,A,D,A,Chemistry,Computer Science,Physics,History,C,C,A,A,False,3.0,Computer Engineering
+Female,A,C,B,Chemistry,Geography,Agriculture,Physics,D,D,C,A,False,2.43,Telecommunications
+Male,A,C,D,Business,Agriculture,History,Biology,A,A,A,A,False,3.29,Architecture
+Female,A,B,D,Agriculture,Chemistry,Religion,History,A,D,C,B,False,2.57,Agricultural Science
+Female,B,C,B,Computer Science,Business,Religion,Geography,C,A,B,F,False,2.43,Telecommunications
+Male,B,B,C,Chemistry,Computer Science,Religion,Biology,A,A,D,C,False,2.71,Environmental Science
+Female,A,D,C,Biology,Business,Physics,Geography,B,D,D,B,False,2.14,Education
+Male,B,E,B,Religion,Chemistry,Geography,Physics,B,B,C,C,False,2.36,Education
+Female,D,D,C,Computer Science,Geography,Business,Biology,C,F,B,D,False,1.43,Agriculture
+Female,F,B,D,Business,Biology,Agriculture,Geography,B,C,C,E,False,1.64,Agriculture
+Male,B,F,C,Physics,History,Chemistry,Business,B,C,D,A,False,2.14,Telecommunications
+Male,A,F,C,Agriculture,Biology,Physics,Chemistry,B,F,E,C,True,1.64,Education
+Male,B,A,B,Religion,Business,Chemistry,History,D,B,C,B,False,2.71,Education
+Female,B,A,C,Biology,Chemistry,Physics,Computer Science,B,C,B,B,True,2.86,Social Work
+Female,A,B,C,Business,Computer Science,History,Geography,C,A,A,A,False,3.29,Tourism
+Male,F,F,E,History,Computer Science,Business,Chemistry,C,A,A,C,False,1.79,Agriculture
+Male,C,A,C,Business,Biology,Religion,Computer Science,C,C,A,A,False,2.86,Forestry
+Male,D,C,C,Physics,Geography,Chemistry,Agriculture,C,F,B,D,False,1.57,Business Administration
+Male,B,B,D,Religion,Agriculture,Physics,Computer Science,E,C,B,C,False,2.07,Telecommunications
+Male,A,B,B,Physics,Agriculture,Computer Science,Geography,E,A,C,B,False,2.79,Agricultural Science
+Male,B,C,D,Computer Science,Chemistry,History,Biology,D,D,C,D,False,1.57,Business Administration
+Male,B,B,A,Agriculture,Business,History,Physics,C,B,B,D,False,2.71,Sociology
+Male,F,C,C,Business,Religion,Geography,History,B,A,B,B,False,2.43,Education
+Male,E,B,C,Business,Computer Science,Physics,Biology,D,B,C,A,False,2.21,Music
+Male,D,A,B,Computer Science,Physics,Biology,Business,A,C,A,B,False,3.0,Food Science
+Female,C,C,A,Business,Religion,Physics,Geography,D,A,C,C,False,2.43,Education
+Female,A,C,A,Physics,Geography,History,Chemistry,C,C,D,C,False,2.43,Telecommunications
+Female,C,C,D,History,Chemistry,Agriculture,Computer Science,C,B,B,A,False,2.43,Telecommunications
+Female,B,C,B,Biology,Business,Geography,Agriculture,B,D,B,A,False,2.71,Education
+Male,A,B,D,Religion,Geography,Biology,Agriculture,C,A,C,E,False,2.36,Theatre Arts
+Male,B,E,D,Geography,Computer Science,Physics,History,E,C,D,D,False,1.29,Business Administration
+Male,E,D,D,History,Physics,Geography,Religion,B,B,C,C,False,1.79,Business Administration
+Male,B,C,A,Geography,Religion,Agriculture,History,A,D,A,A,False,3.14,Telecommunications
+Male,A,C,D,Chemistry,Biology,Computer Science,Physics,B,B,D,C,True,2.29,Education
+Male,C,A,A,Agriculture,Physics,Chemistry,Biology,B,D,C,F,True,2.29,Education
+Female,D,B,C,Religion,Physics,Chemistry,Computer Science,A,C,D,B,False,2.29,Fine Arts
+Male,C,A,C,Business,Geography,Computer Science,Chemistry,A,A,D,B,False,2.86,Telecommunications
+Female,A,B,F,Computer Science,Business,Biology,Agriculture,A,E,B,D,False,2.21,Economics
+Female,D,C,A,Computer Science,History,Business,Religion,A,C,A,C,False,2.71,Education
+Male,D,C,A,Computer Science,Religion,Business,Chemistry,C,F,D,A,False,2.0,Education
+Female,D,A,A,Physics,History,Biology,Business,B,B,A,C,False,3.0,Theatre Arts
+Male,E,D,D,Religion,Business,Computer Science,Chemistry,B,C,C,A,False,1.93,Business Administration
+Male,A,B,B,Business,Physics,Geography,Computer Science,B,D,A,F,False,2.57,Fine Arts
+Male,C,E,C,Biology,Geography,Chemistry,History,C,C,D,C,False,1.64,Agriculture
+Female,A,C,E,History,Geography,Physics,Computer Science,D,F,A,B,False,2.07,Telecommunications
+Female,C,C,A,Agriculture,Geography,Computer Science,History,A,A,D,B,False,2.86,Environmental Science
+Female,D,B,A,Geography,Religion,Physics,Business,B,B,F,E,False,2.07,Education
+Female,B,B,C,Geography,Biology,Physics,Business,B,D,B,B,False,2.57,Culinary Arts
+Female,C,B,C,Biology,Business,Religion,Geography,A,C,F,C,False,2.14,Education
+Male,C,B,B,Computer Science,Biology,Physics,Business,C,B,D,B,False,2.43,Theatre Arts
+Male,B,B,B,Computer Science,History,Biology,Geography,A,C,C,B,False,2.86,Graphic Design
+Female,B,B,D,Religion,Chemistry,Computer Science,Geography,C,A,A,A,False,3.0,Human Resource Management
+Female,C,B,A,History,Business,Biology,Religion,A,F,A,E,False,2.5,Environmental Science
+Female,C,B,D,Religion,Physics,Geography,Agriculture,C,C,C,C,False,2.0,Education
+Male,B,C,A,Biology,Geography,Business,Physics,C,A,C,C,False,2.71,Forestry
+Female,C,A,B,Agriculture,Biology,Business,Computer Science,D,A,D,B,False,2.57,Telecommunications
+Female,A,B,A,History,Religion,Business,Chemistry,C,D,B,D,False,2.57,Education
+Male,A,D,D,Agriculture,History,Business,Physics,B,A,C,C,False,2.43,Education
+Female,A,A,D,Physics,Chemistry,Computer Science,History,C,C,D,C,False,2.29,Education
+Male,F,D,F,Computer Science,Biology,Physics,Chemistry,A,A,B,C,True,2.0,Telecommunications
+Female,A,C,D,History,Religion,Business,Computer Science,C,B,B,B,False,2.57,Education
+Male,B,A,C,Agriculture,Chemistry,Physics,History,B,D,B,D,False,2.43,Theatre Arts
+Female,B,C,C,Geography,Biology,Computer Science,Chemistry,E,A,D,B,False,2.21,Telecommunications
+Female,E,B,B,Religion,Computer Science,Agriculture,History,C,B,F,B,False,2.07,Telecommunications
+Female,D,B,B,History,Religion,Chemistry,Biology,D,A,D,A,False,2.43,Telecommunications
+Male,B,D,C,History,Chemistry,Computer Science,Religion,A,A,B,A,False,3.0,Telecommunications
+Male,C,F,A,Agriculture,Chemistry,History,Geography,C,B,B,A,False,2.57,Telecommunications
+Female,C,B,F,Chemistry,History,Computer Science,Geography,D,B,D,B,False,1.86,Education
+Male,C,A,C,Religion,Biology,Business,Computer Science,C,D,A,C,False,2.43,Hospitality Management
+Female,D,F,E,Agriculture,Physics,Business,Chemistry,B,C,E,C,False,1.29,Education
+Female,B,B,C,Chemistry,History,Physics,Biology,B,A,A,B,True,3.14,Marketing
+Male,B,D,B,Religion,History,Physics,Computer Science,B,B,B,A,False,2.86,Education
+Male,A,B,C,History,Biology,Chemistry,Physics,D,C,C,A,True,2.57,Tourism
+Female,C,B,A,Religion,Chemistry,Business,Geography,C,C,D,B,False,2.43,Education
+Female,C,C,C,Biology,Physics,Geography,Computer Science,B,C,F,C,False,1.86,Education
+Female,F,C,F,Agriculture,Computer Science,Geography,Biology,A,C,D,C,False,1.57,Education
+Male,B,D,C,Biology,Business,Religion,Computer Science,D,D,E,A,False,1.79,Agriculture
+Female,A,E,A,History,Religion,Business,Chemistry,D,A,B,A,False,2.93,Telecommunications
+Female,D,D,B,Business,Geography,Chemistry,Agriculture,B,A,F,A,False,2.29,Telecommunications
+Female,B,D,A,Religion,Computer Science,History,Agriculture,E,B,A,A,False,2.79,Agricultural Science
+Male,C,C,B,Computer Science,Agriculture,Religion,Business,C,A,A,C,False,2.71,Forestry
+Male,A,B,B,Computer Science,Business,Chemistry,Agriculture,A,B,D,A,False,3.14,Marketing
+Female,C,B,C,Physics,Agriculture,Religion,Chemistry,B,B,B,B,False,2.71,Music
+Female,E,D,C,Religion,Chemistry,Biology,Physics,B,C,B,B,True,2.07,Education
+Male,A,A,D,Business,History,Geography,Computer Science,F,A,E,B,False,2.36,Tourism
+Male,B,A,A,Religion,Biology,Business,Chemistry,C,D,B,B,False,2.86,Media Studies
+Female,D,D,A,Agriculture,Chemistry,Physics,History,A,D,C,A,False,2.43,Telecommunications
+Male,A,A,C,Physics,Agriculture,Biology,History,D,D,D,A,False,2.43,Telecommunications
+Male,D,C,D,Geography,Agriculture,Biology,Chemistry,B,C,D,D,False,1.57,Agriculture
+Female,D,D,C,Computer Science,Chemistry,Physics,Biology,D,C,B,B,True,1.86,Business Administration
+Male,C,C,B,Business,Agriculture,History,Biology,D,D,A,A,False,2.43,Telecommunications
+Female,C,D,B,Physics,Chemistry,Agriculture,Geography,F,B,C,A,False,2.14,Education
+Male,A,C,A,Chemistry,Physics,History,Computer Science,E,D,A,A,False,2.79,Telecommunications
+Male,C,B,C,History,Religion,Business,Chemistry,B,D,B,C,False,2.29,Education
+Female,C,C,C,Computer Science,History,Physics,Religion,C,B,A,C,False,2.43,Telecommunications
+Male,C,C,C,Chemistry,Religion,Agriculture,Business,D,D,D,E,False,1.36,Education
+Male,B,B,D,Geography,Agriculture,Biology,Chemistry,A,A,C,B,False,2.86,Fine Arts
+Female,D,C,C,History,Computer Science,Chemistry,Geography,B,D,C,A,False,2.14,Education
+Male,B,C,E,Business,History,Religion,Computer Science,A,C,C,C,False,2.21,Telecommunications
+Male,F,C,D,Physics,Business,Computer Science,Geography,D,A,C,A,False,2.0,Telecommunications
+Male,B,C,C,Computer Science,Geography,Agriculture,Business,A,A,C,A,False,3.0,Cybersecurity
+Female,B,B,C,Agriculture,Business,Computer Science,Biology,A,D,B,C,False,2.57,Fine Arts
+Male,C,A,A,Religion,Geography,Computer Science,Business,A,C,C,B,False,3.0,International Relations
+Female,A,D,B,History,Biology,Physics,Computer Science,A,D,A,B,False,2.86,Food Science
+Male,C,C,A,History,Agriculture,Computer Science,Geography,B,C,A,A,False,3.0,Forestry
+Male,C,A,C,History,Religion,Agriculture,Computer Science,C,F,F,A,False,2.0,Telecommunications
+Female,D,C,C,Agriculture,Biology,History,Computer Science,A,D,C,D,False,1.86,Education
+Female,B,B,F,Physics,Geography,Agriculture,Computer Science,B,F,F,A,False,1.86,Education
+Female,B,D,C,Geography,Physics,Computer Science,Religion,B,C,A,D,False,2.29,Telecommunications
+Male,D,D,C,History,Chemistry,Religion,Physics,C,C,A,B,False,2.14,Education
+Female,C,A,A,History,Religion,Physics,Agriculture,F,B,B,C,False,2.57,Food Science
+Male,B,B,E,Biology,Agriculture,Physics,Business,F,B,B,B,False,2.21,Business Administration
+Female,C,D,D,Geography,Chemistry,Religion,Business,B,C,F,D,False,1.43,Business Administration
+Female,B,D,B,Computer Science,Business,Geography,Chemistry,D,B,D,A,False,2.29,Telecommunications
+Male,B,E,B,Geography,Religion,Chemistry,Biology,D,B,B,B,False,2.36,Education
+Female,B,B,D,Agriculture,Religion,Geography,History,A,E,D,B,False,2.21,Telecommunications
+Female,A,F,C,Computer Science,History,Geography,Religion,A,B,A,B,False,2.86,Information Technology
+Male,C,B,A,Physics,Agriculture,History,Biology,C,B,E,C,False,2.36,Theatre Arts
+Female,A,F,B,Physics,Biology,Agriculture,Chemistry,A,A,B,D,True,2.71,Forestry
+Female,A,C,B,Chemistry,Agriculture,Computer Science,Biology,C,A,B,D,False,2.71,Environmental Science
+Male,B,D,C,Chemistry,Religion,Computer Science,Physics,C,A,B,A,False,2.71,Telecommunications
+Male,E,C,C,Computer Science,Chemistry,Geography,Religion,D,C,B,A,False,2.07,Education
+Male,E,B,A,Computer Science,Business,Agriculture,Physics,A,B,A,A,False,3.21,Fine Arts
+Female,B,B,C,Biology,Chemistry,Physics,Religion,C,A,B,A,True,3.0,Environmental Science
+Female,C,D,C,Business,Computer Science,Chemistry,Physics,B,C,D,C,False,1.86,Education
+Female,A,A,C,Geography,Computer Science,History,Chemistry,A,C,B,C,False,3.0,Graphic Design
+Female,C,D,B,Biology,Religion,Physics,Geography,C,B,C,D,False,2.0,Telecommunications
+Female,D,D,F,Agriculture,Religion,Physics,Biology,B,D,B,E,False,1.36,Business Administration
+Female,A,A,C,Business,Biology,Religion,Computer Science,D,D,B,E,False,2.21,Accounting
+Male,C,A,A,Geography,Chemistry,Biology,Agriculture,C,D,A,A,False,3.0,Tourism
+Male,B,C,C,Computer Science,Physics,History,Biology,D,A,D,C,False,2.14,Telecommunications
+Female,C,C,F,Business,Agriculture,Physics,History,B,A,C,B,False,2.29,Education
+Male,E,B,A,Geography,Physics,Biology,Chemistry,B,E,F,D,True,1.71,Business Administration
+Male,B,A,B,Chemistry,Business,Religion,Computer Science,F,C,A,A,False,2.86,Fine Arts
+Male,C,C,B,History,Computer Science,Religion,Biology,B,D,F,F,False,1.57,Agriculture
+Female,C,B,A,Business,Geography,Religion,Agriculture,B,E,C,E,False,2.14,Education
+Female,C,C,D,Religion,Physics,Business,Biology,A,A,C,E,False,2.21,Telecommunications
+Male,B,B,A,History,Business,Biology,Geography,C,B,B,D,False,2.71,Human Resource Management
+Female,A,C,D,Physics,Agriculture,Religion,Chemistry,C,B,D,F,False,1.86,Business Administration
+Female,C,B,C,Chemistry,Computer Science,Business,Religion,B,A,C,C,False,2.57,Tourism
+Male,C,F,A,Religion,Geography,Computer Science,History,C,A,C,B,False,2.43,Telecommunications
+Female,C,B,A,Business,History,Physics,Chemistry,F,A,B,D,False,2.43,Culinary Arts
+Male,B,A,C,Agriculture,Physics,Computer Science,Geography,D,A,C,B,False,2.71,Fine Arts
+Female,A,A,C,Physics,Geography,Biology,Business,D,B,C,A,False,2.86,Telecommunications
+Male,B,D,B,Geography,Computer Science,Business,Physics,B,A,B,D,False,2.57,Telecommunications
+Male,B,B,C,Computer Science,Agriculture,Geography,Physics,B,E,C,B,False,2.36,Hospitality Management
+Female,C,C,A,Business,Biology,History,Agriculture,D,D,A,C,False,2.29,Education
+Female,E,B,C,Religion,Agriculture,Business,Geography,C,D,A,C,False,2.07,Education
+Male,E,C,D,Agriculture,Physics,Biology,Geography,D,B,C,C,False,1.64,Agriculture
+Female,F,C,D,Religion,Geography,Business,Computer Science,A,E,B,A,False,2.07,Telecommunications
+Male,A,C,C,Chemistry,Physics,Business,Biology,C,D,F,B,True,2.0,Education
+Female,B,C,C,Religion,Computer Science,Physics,Business,C,B,F,C,False,2.0,Education
+Male,B,D,E,Business,Computer Science,Physics,Biology,B,D,C,D,False,1.64,Business Administration
+Male,B,A,A,Geography,Business,Physics,Biology,D,D,B,D,False,2.43,Human Resource Management
+Male,B,C,C,Geography,Biology,Chemistry,Physics,A,E,B,C,True,2.36,Education
+Female,C,D,D,Religion,History,Physics,Computer Science,B,A,A,D,False,2.29,Education
+Female,B,E,C,Religion,History,Biology,Agriculture,F,C,B,A,False,2.07,Telecommunications
+Female,C,C,C,Physics,Computer Science,Chemistry,Geography,B,D,A,A,False,2.57,Telecommunications
+Female,B,C,B,Agriculture,Computer Science,Physics,Business,A,B,A,B,False,3.14,Architecture
+Female,E,C,C,Chemistry,Business,Agriculture,Physics,D,E,B,C,False,1.57,Agriculture
+Female,D,C,B,History,Agriculture,Geography,Religion,A,A,B,B,False,2.86,Education
+Male,C,B,A,Biology,Computer Science,Agriculture,Chemistry,B,A,E,B,False,2.79,Counseling
+Male,C,A,C,Physics,Chemistry,Agriculture,Biology,E,A,D,D,True,2.07,Education
+Male,D,C,D,Religion,Chemistry,Biology,Business,C,D,A,B,False,2.0,Telecommunications
+Male,D,C,B,Physics,Religion,History,Computer Science,D,C,B,B,False,2.14,Education
+Female,B,C,B,Religion,Business,Physics,Geography,A,D,C,D,False,2.29,Telecommunications
+Male,A,B,A,Agriculture,Physics,Biology,Business,C,B,C,A,False,3.14,Aerospace Engineering
+Female,C,B,E,Biology,History,Chemistry,Computer Science,B,A,C,B,False,2.5,Graphic Design
+Male,B,E,B,Business,Chemistry,History,Biology,F,D,B,C,False,1.79,Business Administration
+Female,C,D,C,Agriculture,Biology,Computer Science,Religion,D,A,D,A,False,2.14,Education
+Male,A,D,C,Religion,Business,History,Agriculture,C,A,A,A,False,3.0,Information Technology
+Male,A,B,A,Biology,Agriculture,Physics,History,D,A,B,A,False,3.29,Graphic Design
+Female,A,B,B,Physics,Business,Geography,Chemistry,D,A,A,C,False,3.0,Psychology
+Male,F,C,B,History,Biology,Physics,Agriculture,A,B,D,A,False,2.43,Education
+Female,D,C,C,Business,History,Computer Science,Physics,E,D,C,E,False,1.29,Business Administration
+Male,E,B,E,Biology,Physics,Chemistry,Religion,B,A,D,B,True,2.14,Telecommunications
+Female,D,B,B,Physics,Computer Science,Chemistry,History,C,B,D,D,False,2.0,Telecommunications
+Female,A,D,C,Physics,Geography,Chemistry,Agriculture,C,B,B,B,False,2.57,Telecommunications
+Male,C,D,F,Physics,History,Geography,Religion,B,A,E,C,False,1.79,Agriculture
+Female,E,B,C,Chemistry,History,Religion,Geography,A,B,C,B,False,2.5,Fine Arts
+Male,C,A,A,Agriculture,Business,Biology,Physics,C,C,B,B,False,2.86,Environmental Science
+Male,C,A,B,Computer Science,Agriculture,Religion,History,C,D,A,B,False,2.71,Agricultural Science
+Male,A,B,B,Physics,Business,Agriculture,Religion,B,A,A,D,False,3.14,Software Engineering
+Female,D,D,A,Computer Science,Religion,Business,Chemistry,D,D,C,C,False,1.71,Agriculture
+Female,B,B,A,History,Business,Biology,Physics,A,B,A,B,False,3.43,Marketing
+Female,A,C,D,Biology,Physics,Religion,Agriculture,C,E,A,B,False,2.36,Telecommunications
+Female,A,D,C,Physics,Geography,Religion,Chemistry,A,E,A,B,False,2.64,Telecommunications
+Female,A,C,D,Physics,Religion,Chemistry,Computer Science,A,A,D,F,False,2.29,Telecommunications
+Female,B,B,C,Biology,Chemistry,History,Business,C,C,C,D,False,2.14,Education
+Female,B,B,A,Religion,History,Agriculture,Chemistry,C,C,C,B,False,2.71,Food Science
+Male,D,A,B,Religion,Business,Chemistry,Computer Science,A,E,E,C,False,2.14,Telecommunications
+Male,A,A,C,Business,Biology,Computer Science,Geography,B,F,D,A,False,2.57,Marketing
+Male,A,D,B,Agriculture,Physics,Religion,Geography,B,C,B,C,False,2.57,Education
+Female,B,B,C,History,Computer Science,Chemistry,Agriculture,A,A,B,D,False,2.86,Tourism
+Male,A,D,B,Physics,History,Business,Computer Science,B,B,A,B,False,3.0,Electrical Engineering
+Female,C,B,C,History,Religion,Geography,Business,D,F,D,A,False,1.86,Agriculture
+Male,F,B,A,Physics,Biology,Business,Chemistry,E,D,C,C,True,1.79,Education
+Male,A,B,C,Religion,History,Geography,Computer Science,C,B,F,D,False,2.14,Education
+Male,B,C,E,History,Business,Geography,Religion,A,B,B,A,False,2.79,Education
+Male,B,B,C,Biology,Geography,Business,Chemistry,B,B,B,B,False,2.86,Human Resource Management
+Female,A,E,C,Agriculture,Religion,Biology,Chemistry,A,D,A,C,False,2.5,Forestry
+Male,B,B,D,Chemistry,Geography,Computer Science,Physics,C,B,E,C,False,2.07,Education
+Male,C,A,B,Agriculture,Biology,History,Business,A,D,F,D,False,2.14,Education
+Female,F,C,E,Computer Science,Chemistry,Geography,Biology,C,D,B,A,False,1.79,Education
+Female,D,A,C,History,Religion,Physics,Business,A,B,A,B,False,3.0,Theatre Arts
+Female,E,B,B,Geography,History,Agriculture,Business,A,C,D,E,False,2.0,Education
+Female,D,B,D,Geography,Biology,Chemistry,Computer Science,A,F,A,B,False,2.29,Fine Arts
+Female,C,B,C,Chemistry,Business,Computer Science,Agriculture,E,B,F,B,False,1.93,Business Administration
+Female,B,B,B,Geography,Agriculture,Business,Biology,B,A,B,D,False,2.86,Media Studies
+Male,B,E,A,History,Geography,Biology,Chemistry,D,C,A,A,False,2.64,Forestry
+Female,F,D,B,Agriculture,Computer Science,Religion,Biology,B,A,B,C,False,2.29,Telecommunications
+Female,A,B,C,History,Computer Science,Physics,Biology,A,C,C,A,False,3.0,Tourism
+Male,A,B,B,History,Physics,Agriculture,Business,A,C,A,F,False,2.86,Business Administration
+Female,E,B,B,Biology,Geography,Business,Religion,B,B,A,D,False,2.5,Music
+Male,E,B,D,Physics,Chemistry,History,Computer Science,D,C,A,D,False,1.79,Business Administration
+Male,B,B,A,History,Biology,Business,Geography,B,A,A,D,False,3.14,Media Studies
+Female,E,E,D,Religion,Geography,History,Agriculture,C,B,C,A,False,1.86,Education
+Female,A,D,D,Physics,Computer Science,Chemistry,History,D,E,C,A,False,1.93,Business Administration
+Female,A,D,B,Chemistry,Geography,Physics,Biology,D,D,C,A,True,2.29,Telecommunications
+Male,B,D,D,Agriculture,Business,Physics,Computer Science,B,B,B,B,False,2.43,Telecommunications
+Female,D,F,D,Computer Science,Religion,Biology,History,A,D,B,B,False,1.86,Education
+Female,A,D,C,History,Geography,Computer Science,Physics,C,D,D,D,False,1.71,Education
+Male,F,A,C,History,Business,Biology,Chemistry,F,A,E,D,False,1.64,Business Administration
+Female,D,E,C,Geography,Biology,Physics,History,C,D,B,E,False,1.43,Agriculture
+Female,D,B,B,Biology,Geography,Physics,Business,C,E,D,C,False,1.79,Agriculture
+Male,A,F,E,Physics,Biology,Computer Science,Geography,C,C,A,A,False,2.36,Education
+Male,C,C,B,Computer Science,Physics,Geography,Biology,D,C,B,D,False,2.0,Education
+Female,A,B,D,Agriculture,Computer Science,History,Business,D,A,D,D,False,2.14,Education
+Female,C,A,B,Religion,History,Business,Agriculture,B,D,A,F,False,2.43,Hospitality Management
+Male,B,B,B,Religion,Agriculture,Biology,Physics,D,D,D,C,False,2.0,Education
+Male,D,B,B,Business,Computer Science,Physics,Religion,B,C,B,B,False,2.57,Theatre Arts
+Male,B,B,C,Geography,Biology,Chemistry,Business,B,A,E,D,False,2.36,Culinary Arts
+Female,C,B,C,Biology,Religion,Agriculture,Computer Science,C,B,D,B,False,2.29,Theatre Arts
+Female,B,A,B,Agriculture,Biology,Geography,Computer Science,F,C,E,B,False,2.21,Theatre Arts
+Male,B,C,E,Religion,Physics,Chemistry,Business,C,B,A,B,False,2.5,Education
+Male,D,E,A,Agriculture,Religion,Computer Science,Business,A,B,E,B,False,2.29,Education
+Male,A,B,D,Physics,Agriculture,Business,Religion,B,D,B,C,False,2.43,Finance
+Male,C,A,D,Computer Science,Geography,Agriculture,Business,B,C,C,B,False,2.43,Tourism
+Male,D,E,A,Agriculture,Computer Science,Physics,Business,B,D,C,F,False,1.64,Education
+Male,B,D,D,Religion,Computer Science,Physics,History,C,A,B,D,False,2.14,Education
+Female,C,C,A,Biology,Chemistry,Agriculture,Geography,C,D,C,A,False,2.43,Education
+Male,C,B,C,Physics,Business,History,Chemistry,D,E,A,C,False,2.07,Telecommunications
+Female,B,A,C,Agriculture,Geography,Business,Computer Science,D,D,E,B,False,2.07,Telecommunications
+Male,B,C,D,Computer Science,Physics,Biology,History,A,B,A,D,False,2.57,Environmental Science
+Female,B,D,C,Religion,Business,Agriculture,Physics,C,D,C,C,False,1.86,Business Administration
+Female,A,E,C,Biology,History,Religion,Business,C,D,D,B,False,1.93,Business Administration
+Male,B,B,A,Religion,Geography,Computer Science,Biology,A,B,C,B,False,3.14,Theatre Arts
+Female,B,B,C,Physics,Business,Religion,History,B,F,B,C,False,2.29,Education
+Female,B,C,A,Business,Physics,Agriculture,Biology,A,B,A,C,False,3.14,Agricultural Science
+Female,A,A,B,Computer Science,Agriculture,Religion,Geography,B,B,C,E,False,2.79,Environmental Science
+Female,B,A,B,Biology,Geography,History,Religion,C,A,A,B,False,3.29,Human Resource Management
+Female,D,A,B,Physics,Geography,Religion,Computer Science,B,B,A,A,False,3.14,Education
+Male,B,A,B,Physics,Chemistry,Agriculture,Biology,B,B,F,A,True,2.86,Counseling
+Female,C,A,D,History,Biology,Computer Science,Physics,C,D,A,C,False,2.29,Telecommunications
+Male,A,C,C,Biology,Agriculture,Religion,Chemistry,A,D,A,D,False,2.57,Food Science
+Male,A,A,A,Agriculture,Physics,Chemistry,Biology,A,C,C,A,True,3.43,Counseling
+Female,B,C,A,History,Physics,Chemistry,Computer Science,D,B,B,C,False,2.57,Education
+Female,A,E,E,Computer Science,Chemistry,Religion,Geography,D,D,B,C,False,1.71,Education
+Female,B,B,F,Business,History,Biology,Agriculture,A,A,D,C,False,2.43,Hospitality Management
+Male,A,D,E,Religion,Chemistry,Agriculture,Business,B,A,B,C,False,2.5,Agricultural Science
+Female,A,C,D,Geography,Biology,Physics,Computer Science,C,B,D,B,False,2.29,Telecommunications
+Male,C,B,D,Religion,Biology,History,Physics,B,C,B,C,False,2.29,Music
+Male,A,A,B,Computer Science,Agriculture,Chemistry,Physics,A,C,D,C,False,2.86,Accounting
+Female,A,D,B,Physics,Religion,Chemistry,Computer Science,D,A,D,B,False,2.43,Education
+Male,D,B,C,Agriculture,History,Religion,Business,D,A,A,C,False,2.43,Telecommunications
+Female,B,C,C,Geography,Biology,Chemistry,Agriculture,C,F,B,C,False,2.0,Education
+Female,B,F,D,Religion,Computer Science,Agriculture,Physics,A,A,B,D,False,2.29,Telecommunications
+Female,C,C,A,Chemistry,Physics,Biology,Business,B,E,C,A,True,2.5,Environmental Science
+Female,A,F,A,Business,History,Physics,Agriculture,B,F,B,F,False,2.0,Telecommunications
+Male,D,D,B,Business,Religion,Physics,History,B,F,A,D,False,1.86,Business Administration
+Female,A,C,A,Chemistry,Religion,History,Physics,C,B,A,E,False,2.79,Telecommunications
+Male,A,D,A,Chemistry,Geography,Business,Computer Science,C,B,C,C,False,2.57,Telecommunications
+Female,A,D,B,Chemistry,Computer Science,Biology,Geography,A,C,B,B,False,2.86,Food Science
+Female,D,D,C,Computer Science,Chemistry,Physics,Biology,B,C,D,E,True,1.5,Education
+Female,E,B,C,Physics,Computer Science,Geography,History,B,C,C,A,False,2.36,Graphic Design
+Female,F,C,A,Chemistry,Business,Agriculture,Religion,B,B,D,C,False,2.14,Education
+Female,C,C,E,Chemistry,Agriculture,Religion,Business,A,D,B,B,False,2.21,Telecommunications
+Male,B,B,B,Agriculture,Religion,Biology,Computer Science,A,D,D,D,False,2.29,Fine Arts
+Male,B,B,C,Agriculture,Business,History,Biology,A,A,B,D,False,2.86,Theatre Arts
+Male,C,B,E,Chemistry,Biology,Computer Science,Religion,B,B,B,D,False,2.21,Telecommunications
+Male,B,B,B,History,Business,Geography,Biology,A,C,D,F,False,2.29,Human Resource Management
+Male,B,B,D,Physics,Agriculture,Computer Science,Geography,D,D,B,D,False,1.86,Education
+Female,E,B,A,History,Physics,Religion,Geography,B,C,B,A,False,2.79,Fine Arts
+Female,B,C,C,Religion,History,Biology,Geography,D,B,A,B,False,2.57,Environmental Science
+Female,F,C,C,Agriculture,Geography,Chemistry,Computer Science,F,B,F,D,False,1.14,Education
+Female,E,C,D,Chemistry,Religion,Biology,Geography,B,B,A,C,False,2.21,Telecommunications
+Male,B,B,B,History,Geography,Business,Religion,D,D,A,A,False,2.71,Counseling
+Male,C,D,B,Biology,Chemistry,History,Business,E,B,B,B,False,2.21,Education
+Female,A,F,C,Chemistry,History,Biology,Computer Science,A,C,D,A,False,2.43,Telecommunications
+Female,A,B,D,Chemistry,Geography,Computer Science,Agriculture,C,B,A,C,False,2.71,Forestry
+Male,A,A,A,Geography,Agriculture,Business,Chemistry,C,B,D,A,False,3.14,Media Studies
+Male,D,D,F,Physics,Geography,Chemistry,Biology,C,A,C,F,True,1.43,Business Administration
+Male,B,B,B,Biology,Business,History,Agriculture,C,C,A,B,False,2.86,Languages
+Male,B,B,C,History,Biology,Physics,Religion,C,C,C,B,False,2.43,Hospitality Management
+Female,F,B,A,Chemistry,Computer Science,History,Agriculture,B,D,A,C,False,2.43,Hospitality Management
+Male,F,A,F,Business,Computer Science,History,Physics,A,C,A,F,False,2.0,Telecommunications
+Female,C,A,B,Physics,Business,Chemistry,Geography,B,B,C,A,False,3.0,Languages
+Female,C,D,A,Geography,Physics,Biology,Agriculture,F,B,D,B,False,2.0,Education
+Male,A,B,C,Religion,Geography,Agriculture,History,B,B,B,C,False,2.86,Hospitality Management
+Male,B,D,C,Computer Science,Physics,Agriculture,Religion,C,B,B,C,False,2.29,Education
+Female,C,C,B,Agriculture,History,Chemistry,Physics,C,B,B,F,False,2.14,Telecommunications
+Male,F,C,B,History,Computer Science,Agriculture,Business,C,D,C,B,False,1.86,Education
+Male,C,C,D,Geography,Business,History,Biology,D,B,B,A,False,2.29,Education
+Female,B,B,A,Business,Chemistry,Agriculture,Geography,B,C,A,D,False,2.86,International Relations
+Female,B,A,C,Religion,Physics,Agriculture,Computer Science,D,B,B,D,False,2.43,Education
+Male,B,C,A,Biology,Geography,Agriculture,Religion,C,B,F,B,False,2.43,Telecommunications
+Male,B,B,B,Biology,Physics,Chemistry,Business,A,D,D,B,True,2.57,Food Science
+Male,A,D,C,Religion,Biology,Physics,Computer Science,A,C,C,D,False,2.29,Education
+Female,F,B,B,Agriculture,Physics,Religion,Chemistry,A,D,A,D,False,2.29,Education
+Male,C,D,C,Religion,Business,Agriculture,Chemistry,B,B,D,A,False,2.29,Telecommunications
+Female,D,C,D,History,Agriculture,Business,Biology,B,C,D,B,False,1.86,Agriculture
+Female,C,C,C,History,Chemistry,Agriculture,Physics,C,D,D,E,False,1.5,Agriculture
+Male,A,B,D,Computer Science,Business,History,Physics,D,C,B,F,False,2.0,Accounting
+Female,A,B,B,Religion,Agriculture,Computer Science,History,A,D,D,A,False,2.86,AI & Machine Learning
+Male,A,A,A,Computer Science,Biology,Business,Chemistry,D,D,D,D,False,2.29,Human Resource Management
+Male,E,A,C,Geography,History,Business,Agriculture,D,C,D,A,False,2.07,Telecommunications
+Female,B,B,F,Business,Physics,Computer Science,Religion,A,C,C,A,False,2.57,Graphic Design
+Male,A,D,C,Computer Science,Agriculture,Business,Geography,A,C,F,D,False,2.0,Telecommunications
+Male,A,C,A,Chemistry,Computer Science,History,Biology,B,D,B,D,False,2.57,Food Science
+Male,A,C,F,Physics,Biology,Business,History,C,C,D,D,False,1.71,Business Administration
+Male,B,A,D,Chemistry,Religion,Biology,Agriculture,B,A,C,B,False,2.86,Business Administration
+Female,B,B,A,Business,Religion,Biology,Agriculture,A,B,C,F,False,2.71,Music
+Female,C,C,C,Agriculture,History,Chemistry,Religion,C,B,B,D,False,2.14,Education
+Female,B,A,B,History,Physics,Business,Geography,C,C,A,C,False,2.86,Accounting
+Male,E,B,E,Computer Science,Religion,Physics,Agriculture,A,B,F,B,False,2.0,Telecommunications
+Female,E,A,C,History,Geography,Business,Agriculture,C,A,B,A,False,2.79,Agricultural Science
+Male,A,E,B,Chemistry,Business,Religion,Geography,C,B,A,C,False,2.64,Education
+Female,A,B,A,Computer Science,Geography,Chemistry,Physics,E,B,A,C,False,2.93,Psychology
+Male,B,C,B,Geography,Biology,Computer Science,Chemistry,F,C,B,B,False,2.29,Education
+Female,A,C,A,Agriculture,History,Chemistry,Computer Science,A,A,C,B,False,3.29,Agricultural Science
+Male,C,B,C,Biology,History,Physics,Agriculture,C,A,D,B,False,2.43,Fine Arts
+Female,A,B,C,Chemistry,Computer Science,Business,History,C,A,B,B,False,3.0,Psychology
+Female,C,C,B,Physics,Biology,Geography,Chemistry,C,D,B,D,True,2.0,Telecommunications
+Male,D,A,C,Business,Biology,Religion,Geography,F,A,D,C,False,2.0,Education
+Male,B,C,D,Geography,Computer Science,Physics,Business,B,C,A,D,False,2.29,Telecommunications
+Male,B,B,B,Chemistry,Biology,History,Geography,D,A,D,B,False,2.57,Education
+Female,A,C,A,Biology,Business,Geography,Agriculture,B,F,C,A,False,2.71,Agricultural Science
+Female,C,B,A,Chemistry,Computer Science,Business,Physics,C,A,A,C,False,3.0,Law
+Female,A,B,B,Geography,Business,Physics,Agriculture,D,F,B,A,False,2.57,Music
+Male,C,C,A,Computer Science,Business,History,Physics,F,A,B,C,False,2.43,Education
+Male,C,B,D,Physics,Computer Science,Agriculture,Biology,C,F,D,B,False,1.71,Education
+Female,B,B,D,Agriculture,Business,Biology,Geography,E,D,D,B,False,1.79,Business Administration
+Male,D,E,A,Biology,Agriculture,Business,Religion,C,D,B,D,False,1.79,Education
+Female,B,D,B,Physics,Biology,Computer Science,History,B,D,B,F,False,2.0,Telecommunications
+Male,A,C,D,Agriculture,Physics,Religion,History,D,A,B,A,False,2.71,Agricultural Science
+Female,C,A,A,Biology,Business,Agriculture,Computer Science,C,D,B,C,False,2.57,Education
+Female,C,D,B,Physics,Agriculture,Geography,Chemistry,A,B,B,D,False,2.43,Telecommunications
+Male,C,A,C,Business,Religion,Computer Science,Agriculture,C,D,C,B,False,2.29,Telecommunications
+Female,B,B,C,Biology,Physics,Computer Science,Religion,D,D,D,A,False,2.14,Telecommunications
+Female,B,F,C,Agriculture,Geography,Biology,Religion,E,D,A,C,False,1.79,Business Administration
+Male,B,F,B,Computer Science,Physics,Biology,Agriculture,A,A,A,A,False,3.14,Environmental Science
+Female,B,D,B,Geography,Biology,History,Computer Science,B,D,A,D,False,2.29,Education
+Female,F,C,D,Agriculture,Biology,Business,Religion,E,C,F,D,False,0.93,Business Administration
+Female,A,C,A,Biology,Computer Science,Business,Agriculture,E,C,B,B,False,2.64,Food Science
+Female,C,F,C,Chemistry,Religion,Computer Science,Biology,C,E,D,C,False,1.36,Business Administration
+Male,C,B,E,History,Geography,Computer Science,Chemistry,B,B,C,E,False,2.0,Telecommunications
+Male,C,B,C,Physics,Business,Chemistry,Geography,C,A,A,E,False,2.5,Hospitality Management
+Male,C,D,A,Biology,Religion,Business,Geography,B,B,B,A,False,2.86,Food Science
+Female,C,B,B,History,Chemistry,Biology,Religion,D,C,A,A,False,2.71,Sociology
+Male,A,C,D,History,Chemistry,Agriculture,Business,D,B,C,A,False,2.43,Education
+Female,C,D,C,Physics,Biology,Business,Chemistry,A,A,F,C,True,2.14,Education
+Female,C,A,A,Geography,Agriculture,Physics,Business,D,B,C,F,False,2.29,Graphic Design
+Male,D,C,C,Chemistry,Computer Science,Religion,Agriculture,C,B,B,B,False,2.29,Telecommunications
+Female,B,C,C,Business,Biology,Computer Science,Agriculture,B,C,A,D,False,2.43,Education
+Male,C,D,B,Computer Science,History,Religion,Business,A,A,B,D,False,2.57,Education
+Male,A,A,B,History,Business,Religion,Physics,B,A,B,C,False,3.29,Law
+Male,C,E,C,Geography,Physics,Computer Science,Biology,C,C,D,D,False,1.5,Business Administration
+Female,B,A,B,Chemistry,Business,Religion,Physics,A,A,C,D,False,3.0,Fine Arts
+Female,A,C,D,History,Religion,Agriculture,Computer Science,A,A,B,C,False,2.86,Data Science
+Female,A,C,F,Business,Geography,Chemistry,Religion,B,B,D,C,False,2.14,Education
+Male,D,D,F,Geography,Biology,Computer Science,Physics,B,C,C,C,False,1.57,Business Administration
+Male,B,B,C,History,Biology,Physics,Business,B,E,A,B,False,2.64,Agricultural Science
+Male,B,A,D,Geography,Physics,History,Agriculture,C,E,D,B,False,2.07,Education
+Male,C,B,B,History,Agriculture,Geography,Religion,B,B,A,D,False,2.71,Tourism
+Male,B,C,C,Geography,Physics,Biology,Computer Science,B,C,A,F,False,2.29,Telecommunications
+Male,B,E,C,Geography,Agriculture,Religion,Computer Science,B,B,A,B,False,2.64,Forestry
+Male,B,B,B,Business,Religion,Biology,History,C,B,A,D,False,2.71,Psychology
+Male,A,B,D,Geography,Physics,Agriculture,Religion,A,F,B,A,False,2.71,Tourism
+Female,F,C,C,Chemistry,Biology,Religion,Computer Science,D,A,B,D,False,1.86,Education
+Female,C,B,A,Religion,Agriculture,Business,Biology,A,B,B,C,False,3.0,Languages
+Female,A,B,A,Chemistry,Biology,Geography,Computer Science,C,B,B,C,False,3.0,Environmental Science
+Male,D,C,A,History,Biology,Computer Science,Agriculture,C,C,A,C,False,2.43,Telecommunications
+Female,A,C,C,Computer Science,Geography,Religion,Agriculture,C,B,A,A,False,3.0,Data Science
+Male,D,A,B,Geography,Biology,Religion,History,A,C,E,B,False,2.5,Fine Arts
+Female,D,D,B,Business,Chemistry,Geography,Biology,B,C,C,D,False,1.86,Business Administration
+Female,B,E,D,Physics,Religion,Biology,Computer Science,C,D,B,E,False,1.57,Agriculture
+Male,D,A,A,Geography,History,Biology,Agriculture,A,C,A,B,False,3.14,Languages
+Male,B,B,D,Religion,Agriculture,History,Chemistry,E,C,C,B,False,2.07,Education
+Female,D,A,C,History,Physics,Religion,Agriculture,A,A,E,A,False,2.79,Psychology
+Female,C,A,B,Agriculture,Business,Chemistry,History,D,A,B,F,False,2.43,Music
+Male,A,C,C,History,Religion,Physics,Biology,B,A,C,C,False,2.71,Education
+Male,B,F,C,Chemistry,Religion,Business,Biology,D,C,A,B,False,2.14,Telecommunications
+Female,E,C,B,Physics,Computer Science,History,Chemistry,C,F,B,C,False,1.79,Business Administration
+Female,B,B,B,Physics,Agriculture,Religion,Biology,D,B,A,B,False,2.86,Education
+Female,D,C,A,Business,Agriculture,Religion,Computer Science,D,C,F,C,False,1.71,Business Administration
+Female,B,D,A,Physics,History,Religion,Business,C,C,B,C,False,2.43,Telecommunications
+Male,A,B,B,History,Physics,Computer Science,Geography,D,D,A,A,False,2.86,Business Administration
+Male,A,E,C,Computer Science,Religion,Business,History,A,C,C,B,False,2.5,Telecommunications
+Male,D,D,D,Physics,Biology,Geography,Religion,D,B,D,C,False,1.43,Agriculture
+Female,C,E,C,Business,Chemistry,Geography,History,F,A,C,B,False,1.93,Agriculture
+Male,C,A,B,Chemistry,Computer Science,Religion,Geography,B,C,A,E,False,2.64,Hospitality Management
+Female,A,C,F,Biology,Religion,Chemistry,Business,D,B,B,A,False,2.43,Telecommunications
+Female,B,A,D,Religion,Physics,Biology,History,E,B,C,F,False,1.93,Agriculture
+Male,D,B,A,Religion,Chemistry,Physics,Biology,B,D,C,B,True,2.43,Education
+Male,C,A,A,History,Chemistry,Geography,Business,A,A,D,B,False,3.14,Journalism
+Female,A,B,D,Physics,Biology,Religion,Geography,B,C,A,F,False,2.43,Theatre Arts
+Female,A,B,B,Religion,Physics,Chemistry,Biology,B,A,B,B,True,3.29,Culinary Arts
+Male,A,B,B,History,Agriculture,Chemistry,Biology,B,B,C,C,False,2.86,Tourism
+Male,E,B,E,History,Computer Science,Physics,Biology,C,D,C,A,False,1.86,Education
+Male,C,E,C,Religion,Agriculture,History,Geography,A,B,A,B,False,2.64,Education
+Female,B,A,B,Business,Computer Science,Biology,Agriculture,B,A,A,A,False,3.57,Business Administration
+Male,B,B,A,History,Religion,Physics,Chemistry,A,A,C,A,False,3.43,Graphic Design
+Male,A,A,B,Business,Biology,Geography,Chemistry,B,A,A,D,False,3.29,Tourism
+Female,A,E,A,Biology,Physics,Agriculture,History,C,C,C,B,False,2.5,Telecommunications
+Male,C,B,B,Agriculture,Business,Biology,Computer Science,B,B,D,C,False,2.43,Music
+Female,A,C,B,History,Physics,Geography,Agriculture,A,C,C,A,False,3.0,Information Technology
+Female,C,D,F,Business,Biology,Physics,History,D,D,D,A,False,1.43,Education
+Female,B,C,A,History,Religion,Business,Agriculture,D,B,D,A,False,2.57,Telecommunications
+Male,C,C,A,Computer Science,Biology,History,Chemistry,C,B,A,D,False,2.57,Agricultural Science
+Male,C,C,D,Agriculture,Biology,Physics,Computer Science,C,B,D,B,False,2.0,Education
+Female,D,D,D,Geography,Agriculture,History,Computer Science,B,C,E,F,False,1.21,Agriculture
+Female,F,B,B,Biology,Physics,Chemistry,Business,B,F,C,C,True,1.86,Business Administration
+Male,A,B,A,Physics,Religion,History,Chemistry,D,B,B,B,False,3.0,Business Administration
+Male,A,E,A,History,Religion,Business,Agriculture,C,A,B,B,False,2.93,Computer Science
+Male,B,C,C,Geography,Business,Agriculture,Biology,A,C,B,B,False,2.71,Food Science
+Male,D,B,B,Biology,History,Geography,Agriculture,B,B,A,D,False,2.57,Environmental Science
+Male,E,C,C,Religion,Chemistry,Business,History,B,D,B,B,False,2.07,Education
+Male,C,C,C,Agriculture,Religion,Physics,Computer Science,C,A,C,D,False,2.14,Telecommunications
+Female,A,C,C,Business,Religion,Agriculture,Biology,C,B,B,D,False,2.43,Education
+Male,B,A,C,History,Computer Science,Physics,Geography,C,B,B,B,False,2.86,Education
+Female,C,C,A,History,Geography,Business,Religion,C,F,C,E,False,1.79,Business Administration
+Female,C,E,C,Geography,Religion,Physics,Agriculture,C,B,B,F,False,1.79,Agriculture
+Male,B,F,B,Geography,History,Computer Science,Religion,A,A,B,B,False,2.86,AI & Machine Learning
+Female,C,A,B,History,Geography,Agriculture,Biology,A,F,A,C,False,2.71,Counseling
+Female,B,A,B,History,Religion,Agriculture,Computer Science,B,A,C,B,False,3.14,Accounting
+Female,E,A,C,Business,History,Agriculture,Physics,A,B,C,B,False,2.64,Tourism
+Female,A,A,D,Geography,Biology,Chemistry,History,D,D,B,D,False,2.14,Education
+Male,C,B,C,Chemistry,Physics,Biology,History,C,A,A,C,True,2.71,Forestry
+Male,A,B,A,Agriculture,History,Business,Biology,D,A,C,E,False,2.64,Human Resource Management
+Female,F,D,C,Religion,Physics,Geography,Business,C,C,C,D,False,1.43,Business Administration
+Female,C,A,C,Computer Science,Agriculture,Business,Biology,A,B,C,C,False,2.71,Graphic Design
+Male,B,C,C,Geography,Religion,Biology,History,B,D,D,A,False,2.29,Education
+Female,B,B,C,Physics,Biology,Computer Science,Religion,D,D,C,E,False,1.79,Agriculture
